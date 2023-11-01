@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, MATLAB, Sklearn, , TensorFlow
+#### Technical Skills: Python, MATLAB, Sklearn, NLTK, Keras,TensorFlow, Git, SQL
 
 ## Education						       		
 - M.Sc., Neuro-Cognitive Science	| University of Oldenburg, Oldenburg,Germany (_July 2019_)	 			        		
@@ -8,8 +8,11 @@
 
 ## Work Experience
 **Data Scientist, Machine Learning @Self Employed, Self Education, Freelance(_June 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Completed various data modeling projects, including: 
+  - Data-Driven Deposit Marketing Optimization
+  - NLP Sentiment Analysis
+  - Time Series Forecasting for Store Sales  
+
 
 **Product Developer, User data Analyst @ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)**
 - Developed innovative features to enhance chatbot accuracy in AI conversational software.
@@ -28,14 +31,14 @@
 
 ![]()
 
-### Project: NLP Sentiment Analysis
+### NLP Sentiment Analysis
 []()
 
 
 
 ![]()
 
-### Project:ime Series Forecasting for Store Sales
+### Time Series Forecasting for Store Sales
 
 
 
