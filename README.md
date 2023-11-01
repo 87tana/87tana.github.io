@@ -26,20 +26,28 @@
 ## Projects
 ###  Data-Driven Deposit Marketing Optimization
 []()
-
-
-
+ Analyzed customer subscription probability using classification methods.
+- Conducted exploratory data analysis.
+- Trained logistic regression, KNN, and random forest models.
+- Boosted accuracy using sampling techniques, and reducing false positives by 15% .
+- Identified logistic regression as the most effective model with an AUC of 93%.
+- Presented findings and actionable insights to stakeholders with varying levels of data
+science expertise through data visualizations, reports, and presentations
 ![]()
 
 ### NLP Sentiment Analysis
 []()
-
-
-
+- Compared two sentiment analysis using VADER and Hugging Face’s Roberta model.
+- Demonstrated Roberta’s negative sentiment strength and VADER’s positive bias.
+- Recommended to select appropriate sentiment analysis method to meet project goals.
+- Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis
 ![]()
 
 ### Time Series Forecasting for Store Sales
-
+- Merged six separate datasets into one comprehensive large dataset.
+- Performed feature engineering to extract more detailed features.
+- Trained Linear Regression, Gradient Boosting Regression, and Random Forest models.
+- Identified Gradient Boosting Regression as the best performing model
 
 
 
