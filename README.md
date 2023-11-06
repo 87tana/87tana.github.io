@@ -3,6 +3,11 @@
 #### Technical Skills: Python, MATLAB, Sklearn, NLTK, Keras,TensorFlow, Git, SQL
 
 ## Projects
+
+<p align="center">
+    <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
+</p>
+
 ###  Data-Driven Deposit Marketing Optimization
 []()
  Analyzed customer subscription probability using classification methods.
@@ -13,6 +18,7 @@
 - Presented findings and actionable insights to stakeholders with varying levels of data
 science expertise through data visualizations, reports, and presentations
 ![]()
+
 
 ### NLP Sentiment Analysis
 []()
