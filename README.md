@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, MATLAB, Sklearn, NLTK, Keras,TensorFlow, Git, SQL
+#### Technical Skills: Python, MATLAB, Sklearn, NLTK, Keras, TensorFlow, Git, SQL
 
 ## Projects
 
@@ -45,8 +45,8 @@ science expertise through data visualizations, reports, and presentations.
 ![]()
 
 ## Education						       		
-- M.Sc., Neuro-Cognitive Science	| University of Oldenburg, Oldenburg,Germany (_July 2019_)	 			        		
-- B.S., Clinical Science | University of Tehran Medical Science (_July 2011_)
+- M.Sc., Neuro-Cognitive Science | University of Oldenburg, Oldenburg, Germany (_July 2019_)	 			        		
+- B.S., Clinical Science | University of Tehran Medical Science, Tehran, Iran (_July 2011_)
 
 ## Work Experience
 **Data Scientist, Machine Learning @Self Employed, Self Education, Freelance(_June 2023 - Present_)**
