@@ -2,9 +2,9 @@
 
 #### Technical Skills: Python, MATLAB, Sklearn, NLTK, Keras,TensorFlow, Git, SQL
 
-## Projects
+## - Projects
 
-###  Data-Driven Deposit Marketing Optimization
+###- Data-Driven Deposit Marketing Optimization
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
@@ -20,7 +20,7 @@ science expertise through data visualizations, reports, and presentations.
 ![]()
 
 
-### NLP Sentiment Analysis
+###- NLP Sentiment Analysis
 <p align="center">
     <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
 </p>
@@ -32,7 +32,7 @@ science expertise through data visualizations, reports, and presentations.
 - Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
 ![]()
 
-### Time Series Forecasting for Store Sales
+###- Time Series Forecasting for Store Sales
 <p align="center">
     <img width="400" src="/images/aaa2.gif">
 </p>
