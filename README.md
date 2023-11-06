@@ -8,8 +8,6 @@
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
-
-
 []()
  Analyzed customer subscription probability using classification methods.
 - Conducted exploratory data analysis.
@@ -20,11 +18,11 @@
 science expertise through data visualizations, reports, and presentations
 ![]()
 
+
+### NLP Sentiment Analysis
 <p align="center">
     <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
 </p>
-
-### NLP Sentiment Analysis
 []()
 - Compared two sentiment analysis using VADER and Hugging Face’s Roberta model.
 - Demonstrated Roberta’s negative sentiment strength and VADER’s positive bias.
@@ -33,6 +31,9 @@ science expertise through data visualizations, reports, and presentations
 ![]()
 
 ### Time Series Forecasting for Store Sales
+<p align="center">
+    <img width="400" src="/images/aaa2.gif" alt="Material Bread logo">
+</p>
 - Merged six separate datasets into one comprehensive large dataset.
 - Performed feature engineering to extract more detailed features.
 - Trained Linear Regression, Gradient Boosting Regression, and Random Forest models.
