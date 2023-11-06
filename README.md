@@ -19,6 +19,9 @@
 science expertise through data visualizations, reports, and presentations
 ![]()
 
+<p align="center">
+    <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
+</p>
 
 ### NLP Sentiment Analysis
 []()
