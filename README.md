@@ -32,7 +32,7 @@ science expertise through data visualizations, reports, and presentations.
 - Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
 ![]()
 
-### Time Series Forecasting for Store Sales
+### <a href="https://github.com/87tana/Store-Sales_Time-SeriesForecasting">Time Series Forecasting for Store Sales</a>
 <p align="center">
     <img width="400" src="/images/aaa2.gif">
 </p>
