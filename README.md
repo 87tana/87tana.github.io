@@ -8,6 +8,7 @@
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
+
 []()
  Analyzed customer subscription probability using classification methods.
 - Conducted exploratory data analysis.
@@ -23,6 +24,7 @@ science expertise through data visualizations, reports, and presentations
 <p align="center">
     <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
 </p>
+
 []()
 - Compared two sentiment analysis using VADER and Hugging Face’s Roberta model.
 - Demonstrated Roberta’s negative sentiment strength and VADER’s positive bias.
@@ -34,11 +36,13 @@ science expertise through data visualizations, reports, and presentations
 <p align="center">
     <img width="400" src="/images/aaa2.gif">
 </p>
+
+[]()
 - Merged six separate datasets into one comprehensive large dataset.
 - Performed feature engineering to extract more detailed features.
 - Trained Linear Regression, Gradient Boosting Regression, and Random Forest models.
 - Identified Gradient Boosting Regression as the best performing model
-
+![]()
 
 ## Education						       		
 - M.Sc., Neuro-Cognitive Science	| University of Oldenburg, Oldenburg,Germany (_July 2019_)	 			        		
