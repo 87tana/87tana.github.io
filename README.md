@@ -4,7 +4,7 @@
 
 ## Projects
 
-### Data-Driven Deposit Marketing Optimization
+### <a href="[url](https://github.com/87tana/Bank-Marketing_Prediction)">Data-Driven Deposit Marketing Optimization</a>
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
