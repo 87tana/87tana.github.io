@@ -2,6 +2,7 @@
 **Technical Skills:** Python, MATLAB, Sklearn, NLTK, Keras, TensorFlow, Git, SQL
 
 <hr>
+
 ## Projects
 
 ### <a href="https://github.com/87tana/Bank-Marketing_Prediction">Data-Driven Deposit Marketing Optimization</a>
@@ -44,6 +45,7 @@ science expertise through data visualizations, reports, and presentations.
 ![]()
 
 <hr>
+
 ## Education						       		
 **M.Sc., Neuro-Cognitive Science**
   <br>University of Oldenburg, Oldenburg, Germany (_July 2019_)
@@ -52,6 +54,7 @@ science expertise through data visualizations, reports, and presentations.
   <br>University of Tehran Medical Science, Tehran, Iran (_July 2011_)
 
 <hr>
+
 ## Work Experience
 **Data Scientist, Machine Learning** <br>@ Self Employed, Self Education, Freelance (_June 2023 - Present_)
 - Completed various data modeling projects, including: 
