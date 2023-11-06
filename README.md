@@ -4,11 +4,12 @@
 
 ## Projects
 
+###  Data-Driven Deposit Marketing Optimization
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
 
-###  Data-Driven Deposit Marketing Optimization
+
 []()
  Analyzed customer subscription probability using classification methods.
 - Conducted exploratory data analysis.
