@@ -32,7 +32,7 @@ science expertise through data visualizations, reports, and presentations
 
 ### Time Series Forecasting for Store Sales
 <p align="center">
-    <img width="400" src="/images/aaa2.gif" alt="Material Bread logo">
+    <img width="400" src="/images/aaa2.gif">
 </p>
 - Merged six separate datasets into one comprehensive large dataset.
 - Performed feature engineering to extract more detailed features.
