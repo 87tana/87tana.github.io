@@ -10,7 +10,7 @@
 </p>
 
 []()
- Analyzed customer subscription probability using classification methods.
+- Analyzed customer subscription probability using classification methods.
 - Conducted exploratory data analysis.
 - Trained logistic regression, KNN, and random forest models.
 - Boosted accuracy using sampling techniques, and reducing false positives by 15% .
