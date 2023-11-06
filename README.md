@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Technical Skills 
-<br>**Python, MATLAB, Sklearn, NLTK, Keras, TensorFlow, Git, SQL**
+**Python, MATLAB, Sklearn, NLTK, Keras, TensorFlow, Git, SQL**
 
 ## Projects
 
