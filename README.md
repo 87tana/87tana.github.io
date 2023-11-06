@@ -46,7 +46,8 @@ science expertise through data visualizations, reports, and presentations.
 
 ## Education						       		
 **M.Sc., Neuro-Cognitive Science**
-  <br>University of Oldenburg, Oldenburg, Germany (_July 2019_)	 			        		
+  <br>University of Oldenburg, Oldenburg, Germany (_July 2019_)
+  
 **B.S., Clinical Science**
   <br>University of Tehran Medical Science, Tehran, Iran (_July 2011_)
 
