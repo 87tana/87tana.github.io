@@ -20,8 +20,7 @@
 science expertise through data visualizations, reports, and presentations.
 ![]()
 
-
-### NLP Sentiment Analysis
+### <a href="https://github.com/87tana/NLP_SentimentAnalysis">NLP Sentiment Analysis</a>
 <p align="center">
     <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
 </p>
