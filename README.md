@@ -10,16 +10,13 @@
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
 
-[]()
 - Analyzed customer subscription probability using classification methods.
 - Conducted exploratory data analysis.
 - Trained logistic regression, KNN, and random forest models.
 - Boosted accuracy using sampling techniques, and reducing false positives by 15% .
 - Identified logistic regression as the most effective model with an AUC of 93%.
 - Presented findings and actionable insights to data scientist mentor through data visualizations and presentations.
-![]()
-
-[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
+<br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
 
 ### <a href="https://github.com/87tana/NLP_SentimentAnalysis">NLP Sentiment Analysis</a>
 <p align="center">
