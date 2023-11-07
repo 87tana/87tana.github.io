@@ -1,5 +1,5 @@
 # Data Scientist
-**Technical Skills:** Python, MATLAB, Sklearn, NLTK, Keras, TensorFlow, SQL
+**Technology:** Python, MATLAB, Sklearn, NLTK, Keras, TensorFlow, SQL
 
 <hr>
 
