@@ -18,6 +18,7 @@
 - Identified logistic regression as the most effective model with an AUC of 93%.
 - Presented findings and actionable insights to data scientist mentor through data visualizations and presentations.
 ![]()
+
 <a href="https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf">View Results Presentation \></a>
 
 ### <a href="https://github.com/87tana/NLP_SentimentAnalysis">NLP Sentiment Analysis</a>
