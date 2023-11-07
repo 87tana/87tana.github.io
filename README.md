@@ -19,7 +19,7 @@
 - Presented findings and actionable insights to data scientist mentor through data visualizations and presentations.
 ![]()
 
-- [View Results Presentation >](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
+[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
 
 ### <a href="https://github.com/87tana/NLP_SentimentAnalysis">NLP Sentiment Analysis</a>
 <p align="center">
