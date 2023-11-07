@@ -19,6 +19,10 @@
 - Presented findings and actionable insights to data scientist mentor with through data visualizations and presentations.
 ![]()
 
+https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf
+
+<a href="https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf">View Results Presentation \></a>
+
 ### <a href="https://github.com/87tana/NLP_SentimentAnalysis">NLP Sentiment Analysis</a>
 <p align="center">
     <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
