@@ -16,8 +16,7 @@
 - Trained logistic regression, KNN, and random forest models.
 - Boosted accuracy using sampling techniques, and reducing false positives by 15% .
 - Identified logistic regression as the most effective model with an AUC of 93%.
-- Presented findings and actionable insights to stakeholders with varying levels of data
-science expertise through data visualizations, reports, and presentations.
+- Presented findings and actionable insights to data scientist mentor with through data visualizations and presentations.
 ![]()
 
 ### <a href="https://github.com/87tana/NLP_SentimentAnalysis">NLP Sentiment Analysis</a>
