@@ -18,7 +18,7 @@
 - Presented findings and actionable insights to data scientist mentor through data visualizations and presentations.
 <br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
 
-### <a href="https://github.com/87tana/NLP_SentimentAnalysis">NLP Sentiment Analysis</a>
+### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
     <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
 </p>
@@ -30,7 +30,7 @@
 - Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
 ![]()
 
-### <a href="https://github.com/87tana/Store-Sales_Time-SeriesForecasting">Time Series Forecasting for Store Sales</a>
+### [Time Series Forecasting for Store Sales](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
 <p align="center">
     <img width="400" src="/images/aaa2.gif">
 </p>
