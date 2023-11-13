@@ -7,7 +7,7 @@
 
 ### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
 <p align="center">
-    <img width="400" src="/images/csp_selection.jpg" alt="Material Bread logo">
+    <img width="800" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
 
 <br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
