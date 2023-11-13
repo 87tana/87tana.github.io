@@ -3,7 +3,9 @@
 
 <hr>
 
-## Projects
+## Selected Projects
+
+### [fMRI Image and EEG Signal Processing]()
 
 ### [Data-Driven Deposit Marketing Optimization](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
