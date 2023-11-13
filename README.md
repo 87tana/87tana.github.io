@@ -10,6 +10,8 @@
     <img width="800" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
 
+- xxx
+- yyy
 <br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 
 ### [Data-Driven Deposit Marketing Optimization](https://github.com/87tana/Bank-Marketing_Prediction)
