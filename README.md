@@ -10,8 +10,10 @@
     <img width="800" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
 
-- xxx
-- yyy
+- Analyzed fMRI image variability's impact on surface EEG and developed a cortical EEG pattern model.
+- Proposed two criteria for Common Spatial Pattern (CSP) filter selection to enhance motor imagery neurofeedback for neuroscientists.
+- Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
+- Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
 <br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 
 ### [Data-Driven Deposit Marketing Optimization](https://github.com/87tana/Bank-Marketing_Prediction)
