@@ -5,7 +5,12 @@
 
 ## Selected Projects
 
-### [fMRI Image and EEG Signal Processing]()
+### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
+<p align="center">
+    <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
+</p>
+
+<br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 
 ### [Data-Driven Deposit Marketing Optimization](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
