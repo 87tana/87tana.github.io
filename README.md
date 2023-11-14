@@ -16,7 +16,7 @@
 - Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
 <br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 
-### [Ml_Classification_imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
+### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
@@ -41,7 +41,7 @@
 - Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
 ![]()
 
-### [Time Series Forecasting for Store Sales](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
+### [Time Series Predictions_StoreRevenue](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
 <p align="center">
     <img width="400" src="/images/aaa2.gif">
 </p>
