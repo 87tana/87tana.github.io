@@ -48,10 +48,16 @@
 </p>
 
 []()
-- Compared two sentiment analysis using VADER and Hugging Face’s Roberta model.
-- Demonstrated Roberta’s negative sentiment strength and VADER’s positive bias.
-- Recommended to select appropriate sentiment analysis method to meet project goals.
-- Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
+
+- Applied Logistic Regression, SVC, XGBClassifier, and Forward Neural Network for customer churn prediction.
+
+- Conducted exploratory data analysis to unveil underlying patterns.
+
+- Improved accuracy using the SMOTETomek resampling technique, reducing false positives.
+
+- Trained Logistic Regression, SVM, XGBoost, and FNN models.
+
+- Achieved commendable accuracy and ROC performance (~86%) across all models, except SVM.
 ![]()
 
 ### [Time Series Predictions_StoreRevenue](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
