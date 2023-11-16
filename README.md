@@ -41,6 +41,19 @@
 - Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
 ![]()
 
+
+### [Machine Learning and Deep Learning on Customer Churn Prediction](https://github.com/87tana/Churn_Prediction_ML_DeepL)
+<p align="center">
+    <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
+</p>
+
+[]()
+- Compared two sentiment analysis using VADER and Hugging Face’s Roberta model.
+- Demonstrated Roberta’s negative sentiment strength and VADER’s positive bias.
+- Recommended to select appropriate sentiment analysis method to meet project goals.
+- Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
+![]()
+
 ### [Time Series Predictions_StoreRevenue](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
 <p align="center">
     <img width="400" src="/images/aaa2.gif">
