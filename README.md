@@ -44,7 +44,7 @@
 
 ### [Machine Learning and Deep Learning on Customer Churn Prediction](https://github.com/87tana/Churn_Prediction_ML_DeepL)
 <p align="center">
-    <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
+    <img width="400" src="Userguiding-1.png" alt="Material Bread logo"> 
 </p>
 
 []()
