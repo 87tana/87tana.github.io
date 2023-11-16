@@ -48,15 +48,10 @@
 </p>
 
 []()
-
 - Applied Logistic Regression, SVC, XGBClassifier, and Forward Neural Network for customer churn prediction.
-
 - Conducted exploratory data analysis to unveil underlying patterns.
-
 - Improved accuracy using the SMOTETomek resampling technique, reducing false positives.
-
 - Trained Logistic Regression, SVM, XGBoost, and FNN models.
-
 - Achieved commendable accuracy and ROC performance (~86%) across all models, except SVM.
 ![]()
 
