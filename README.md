@@ -79,7 +79,7 @@
 <hr>
 
 ## Work Experience
-**Data Scientist, Machine Learning** <br>@ Self Employed, Self Education, Freelance (_June 2023 - Present_)
+**Data Scientist, Machine Learning** <br>@ Bootcamps (_June 2023 - Present_)
 - Completed various data modeling projects, including: 
 - Data-Driven Deposit Marketing Optimization.
 - NLP Sentiment Analysis.
