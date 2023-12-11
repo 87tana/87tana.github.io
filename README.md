@@ -24,6 +24,11 @@
     <p style="text-align: center;">Photo from Unsplash</p>
 </div>
 
+- Evaluates and contrasts the effectiveness of VGG16, ResNet50, Xception, and MobileNet architectures in the context of brain tumor classification.
+- Implements the ImageDataGenerator for data augmentation, enriching dataset diversity and enhancing the model's ability to generalize across variations in brain tumor imaging.
+- Compares the impact of different learning rates on the accuracy and loss function of each model.
+- Utilizes confusion matrices to compare predicted labels, providing insights into correct predictions and misclassifications for each class.
+
 ### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
