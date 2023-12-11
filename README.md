@@ -29,6 +29,9 @@
 - Compares the impact of different learning rates on the accuracy and loss function of each model.
 - Utilizes confusion matrices to compare predicted labels, providing insights into correct predictions and misclassifications for each class.
 
+-  [Publuished on Medium](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85) Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks
+
+
 ### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
