@@ -16,6 +16,13 @@
 - Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
 <br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 
+### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
+
+<div align="center">
+    <img width="400" src="/images/0_C2YcJf9bavCCu5D0.jpg" alt="Material Bread logo"> 
+    <p style="text-align: center;">Photo from Unsplash</p>
+</div>
+
 ### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
