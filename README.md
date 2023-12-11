@@ -24,10 +24,11 @@
     <p style="text-align: center;">Photo from Unsplash</p>
 </div>
 
-- Evaluates and contrasts the effectiveness of VGG16, ResNet50, Xception, and MobileNet architectures in the context of brain tumor classification.
-- Implements the ImageDataGenerator for data augmentation, enriching dataset diversity and enhancing the model's ability to generalize across variations in brain tumor imaging.
-- Compares the impact of different learning rates on the accuracy and loss function of each model.
-- Utilizes confusion matrices to compare predicted labels, providing insights into correct predictions and misclassifications for each class.
+- Implemented VGG16, ResNet50, Xception, and MobileNet neural network models
+- Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
+- Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
+- Visualized accuracy and loss curves, and confusion matrices to compare model performances across tumor categories.
+
 
 -  [Publuished on Medium](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85) Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks
 
