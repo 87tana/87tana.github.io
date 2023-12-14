@@ -15,6 +15,11 @@
 - Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
 - Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
 <br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
+<br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
+
+
+
+
 
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
@@ -28,10 +33,7 @@
 - Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
 - Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
 - Visualized accuracy and loss curves, and confusion matrices to compare model performances across tumor categories.
-
-
--  [Publuished on Medium](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85) Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks
-
+<br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
 ### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
