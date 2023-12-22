@@ -25,8 +25,8 @@
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
-    <img width="400" src="/images/0_C2YcJf9bavCCu5D0.jpg" alt="Material Bread logo"> 
-    <p style="text-align: center;">Photo from Unsplash</p>
+    <img width="400" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
+    <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
 - Implemented VGG16, ResNet50, Xception, and MobileNet neural network models
