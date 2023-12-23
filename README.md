@@ -38,6 +38,7 @@
 </p>
 
 []()
+- The objective was identify whether a given review is positive (rated 4 or 5) or negative (rated 1 or 2).
 - Compared two sentiment analysis using VADER and Hugging Face’s Roberta model.
 - Demonstrated Roberta’s negative sentiment strength and VADER’s positive bias.
 - Recommended to select appropriate sentiment analysis method to meet project goals.
