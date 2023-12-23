@@ -5,23 +5,6 @@
 
 ## Selected Projects
 
-### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
-<p align="center">
-    <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
-</p>
-
-- Analyzed fMRI image variability's impact on surface EEG and developed a cortical EEG pattern model.
-- Proposed two criteria for Common Spatial Pattern (CSP) filter selection to enhance motor imagery neurofeedback for neuroscientists.
-- Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
-- Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
-<br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
-<br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
-
-
-
-
-
-
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
@@ -86,6 +69,18 @@
 - Trained Linear Regression, Gradient Boosting Regression, and Random Forest models.
 - Identified Gradient Boosting Regression as the best performing model.
 ![]()
+
+### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
+<p align="center">
+    <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
+</p>
+
+- Analyzed fMRI image variability's impact on surface EEG and developed a cortical EEG pattern model.
+- Proposed two criteria for Common Spatial Pattern (CSP) filter selection to enhance motor imagery neurofeedback for neuroscientists.
+- Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
+- Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
+<br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
+<br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
 
 <hr>
 
