@@ -37,15 +37,21 @@
     <img width="400" src="/images/title_image.jpg" alt="Material Bread logo">
 </p>
 
-[]()
-- The objective was identify whether a given review is positive (rated 4 or 5) or negative (rated 1 or 2).
-- Compared two sentiment analysis using VADER and Hugging Face’s Roberta model.
-- Demonstrated Roberta’s negative sentiment strength and VADER’s positive bias.
+- Conducted sentiment analysis on a dataset of 568,545 Amazon Fine Food Reviews using Natural Language Processing and computational techniques.
+  
+- Achieved a refined dataset with 69.3% of reviews retained through thorough data cleaning and preprocessing.
+
+- Introduced the "Usefulness" feature, assessing the ratio of "Helpfulness Numerator" to "Helpfulness Denominator" for enhanced predictive capacity in sentiment analysis.
+
+- Applied Bag-of-Words (BoW) vectorization, evaluated its impact on sentiment classification, and recommended future exploration of alternative vectorization methods for improved results.
+
+- Demonstrated the impact of stemming and Part-of-Speech (PoS) tagging on the consistency and representativeness of the text corpus, with potential implications for future work on sentiment classification.
+
+- In addition, evaluate sentiment using VADER and Hugging Face’s Roberta model, showed Roberta’s negative sentiment strength and VADER’s positive bias.
+
 - Recommended to select appropriate sentiment analysis method to meet project goals.
-- Highlighted the importance of considering the limitations and potential discrepancies in assigned sentiment during analysis.
+
 ![]()
-
-
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
 
