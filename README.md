@@ -46,6 +46,9 @@
 ![]()
 
 
+<br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
+
+
 ### [Machine Learning and Deep Learning on Customer Churn Prediction](https://github.com/87tana/Churn_Prediction_ML_DeepL)
 <p align="center">
     <img width="400" src="/images/Userguiding-1.png" alt="Material Bread logo">
