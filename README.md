@@ -34,7 +34,7 @@
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
-    <img width="400" src="/images/OIP.jpg" alt="Material Bread logo">
+    <img width="400" src="/title_image.jpg" alt="Material Bread logo">
 </p>
 
 []()
