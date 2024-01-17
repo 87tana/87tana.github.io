@@ -24,19 +24,14 @@
     <img width="400" src="/images/title_image.jpg" alt="Material Bread logo">
 </p>
 
-- Conducted sentiment analysis on a dataset of 568,545 Amazon Fine Food Reviews using Natural Language Processing and computational techniques.
-  
-- Achieved a refined dataset with 69.3% of reviews retained through thorough data cleaning and preprocessing.
-
-- Introduced the "Usefulness" feature, assessing the ratio of "Helpfulness Numerator" to "Helpfulness Denominator" for enhanced predictive capacity in sentiment analysis.
-
-- Applied Bag-of-Words (BoW) vectorization, evaluated its impact on sentiment classification, and recommended future exploration of alternative vectorization methods for improved results.
-
-- Demonstrated the impact of stemming and Part-of-Speech (PoS) tagging on the consistency and representativeness of the text corpus, with potential implications for future work on sentiment classification.
-
-- In addition, evaluate sentiment using VADER and Hugging Face’s Roberta model, showed Roberta’s negative sentiment strength and VADER’s positive bias.
-
-- Recommended to select appropriate sentiment analysis method to meet project goals.
+ Explored NLP techniques for sentiment analysis using Python and libraries such as NLTK, SpacCy, Hugging face
+- Performed EDA, feature engineering as initial project steps.
+- Implemented four text preprocessing combinations, including basic preprocessing, stemming, and part of speech (POS)
+tagging, followed by bag-of-words vectorization.
+- Evaluated word vocabularies based on frequency distributions and word entropies, demonstrating that word frequencies
+alone are insufficient for vocabulary generation.
+- Identified the need for alternative vectorization methods, such as TF-IDF, and emphasized the need to address data
+imbalance for more meaningful sentiment representation and modeling
 
 ![]()
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
