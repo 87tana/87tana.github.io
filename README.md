@@ -19,19 +19,6 @@
 <br>[View 1st  Publication on Medium  \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
 <br>[View 2nd Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
-### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
-<p align="center">
-    <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
-</p>
-
-- Analyzed customer subscription probability using classification methods.
-- Conducted exploratory data analysis.
-- Trained logistic regression, KNN, and random forest models.
-- Boosted accuracy using sampling techniques, and reducing false positives by 15% .
-- Identified logistic regression as the most effective model with an AUC of 93%.
-- Presented findings and actionable insights to data scientist mentor through data visualizations and presentations.
-<br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
-
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
     <img width="400" src="/images/title_image.jpg" alt="Material Bread logo">
@@ -53,6 +40,19 @@
 
 ![]()
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
+
+### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
+<p align="center">
+    <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
+</p>
+
+- Analyzed customer subscription probability using classification methods.
+- Conducted exploratory data analysis.
+- Trained logistic regression, KNN, and random forest models.
+- Boosted accuracy using sampling techniques, and reducing false positives by 15% .
+- Identified logistic regression as the most effective model with an AUC of 93%.
+- Presented findings and actionable insights to data scientist mentor through data visualizations and presentations.
+<br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
 
 
 
