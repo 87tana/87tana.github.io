@@ -101,11 +101,13 @@ imbalance for more meaningful sentiment representation and modeling
 <hr>
 
 ## Work Experience
-**Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_June 2023 - Present_)
-- Completed various data modeling projects, including: 
-- Data-Driven Deposit Marketing Optimization.
-- NLP Sentiment Analysis.
-- Time Series Forecasting for Store Sales.  
+**Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_Jan 2023 - Present_)
+
+- Completed projects in NLP, Computer Vision, Churn Prediction, and Time Series using Python.
+- Enhanced data via preprocessing and feature engineering.
+- Trained,fine-tuned, and meticulously analyzed Machine Learning and Deep Learning algorithms.
+- Addressed imbalanced datasets with machine learning and resampling techniques.
+
 
 
 **Product Developer, User data Analyst** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
