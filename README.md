@@ -117,7 +117,7 @@ imbalance for more meaningful sentiment representation and modeling
 - Skilled in agile teamwork to deliver effective solutions by cross-functional collaboration.
 - Worked with AI scientists and product managers to define problems and potential solutions.
 - Performed data exploration to identify patterns for establishing precise problem definitions.
-- Presented findings and actionable insights to stakeholders with varying levels of data science expertise through data visualizations, reports, and presentations.
+- Performed product analytics and presented data-driven insights to stakeholders by data visualization.
 
 
 
