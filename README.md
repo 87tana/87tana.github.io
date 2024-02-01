@@ -7,7 +7,7 @@
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
-    <img width="400" src="/images/title_image.jpg" alt="Material Bread logo">
+    <img width="400" src="/images/prom_dic_words.jpg" alt="Material Bread logo">
 </p>
 
 - Explored NLP techniques for sentiment analysis using Python and libraries such as NLTK, SpacCy, Hugging face
