@@ -5,20 +5,6 @@
 
 ## Selected Projects
 
-### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
-
-<div align="center">
-    <img width="400" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
-    <p style="text-align: center;">Photo created by autor</p> 
-</div>
-
-- Implemented VGG16, ResNet50, Xception, and MobileNet neural network models
-- Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
-- Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
-- Visualized accuracy and loss curves, and confusion matrices to compare model performances across tumor categories.
-<br>[View 1st  Publication on Medium  \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
-<br>[View 2nd Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
-
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
     <img width="400" src="/images/title_image.jpg" alt="Material Bread logo">
@@ -35,6 +21,22 @@ imbalance for more meaningful sentiment representation and modeling
 
 ![]()
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
+
+
+### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
+
+<div align="center">
+    <img width="400" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
+    <p style="text-align: center;">Photo created by autor</p> 
+</div>
+
+- Implemented VGG16, ResNet50, Xception, and MobileNet neural network models
+- Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
+- Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
+- Visualized accuracy and loss curves, and confusion matrices to compare model performances across tumor categories.
+<br>[View 1st  Publication on Medium  \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
+<br>[View 2nd Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+
 
 ### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
