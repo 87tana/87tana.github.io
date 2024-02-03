@@ -112,7 +112,7 @@ imbalance for more meaningful sentiment representation and modeling
 
 
 
-**Product Developer, User data Analyst** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
+**Product Developer, Data Analyst** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
 - Developed innovative features to enhance chatbot accuracy in AI conversational software.
 - Frontend and UI development, along with user interaction to provide guidance on the technical viability and practical execution of their digital initiatives.
 - Worked with the engineering team to get the project into production.
