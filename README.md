@@ -94,7 +94,7 @@ imbalance for more meaningful sentiment representation and modeling
 <hr>
 
 ## Education						       		
-**M.Sc., Neuro-Cognitive Science**
+**M.Sc., Computational Neuro-Cognitive Science**
   <br>University of Oldenburg, Oldenburg, Germany (_July 2019_)
   
 **B.S., Clinical Science**
