@@ -14,7 +14,7 @@
 - Performed EDA, feature engineering as initial project steps.
 - Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
 tagging**, followed by bag-of-words vectorization.
-- Evaluated word vocabularies based on frequency distributions and word entropies, demonstrating that word frequencies
+- Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
 alone are insufficient for vocabulary generation.
 - Recognized the necessity of exploring alternative vectorization techniques, such as TF-IDF, and underscored the importance of tackling data imbalances to enhance the meaningfulness of sentiment representation and modeling.
 
