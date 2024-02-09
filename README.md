@@ -11,7 +11,7 @@
 </p>
 
 - Explored NLP techniques for sentiment analysis using Python and libraries such as NLTK, SpacCy, Hugging face
-- Performed EDA, feature engineering as initial project steps.
+- Conducted EDA and engaged in feature engineering as the initial steps of the project.
 - Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
 tagging**, followed by bag-of-words vectorization.
 - Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
