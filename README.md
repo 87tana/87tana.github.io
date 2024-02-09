@@ -10,7 +10,7 @@
     <img width="400" src="/images/prom_dic_words.png" alt="Material Bread logo">
 </p>
 
-- Explored NLP techniques for sentiment analysis using Python and libraries such as NLTK, SpacCy, Hugging face
+- Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including NLTK, Spacy, and Hugging Face.
 - Conducted EDA and engaged in feature engineering as the initial steps of the project.
 - Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
 tagging**, followed by bag-of-words vectorization.
