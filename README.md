@@ -16,7 +16,7 @@
 tagging**, followed by bag-of-words vectorization.
 - Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
 alone are insufficient for vocabulary generation.
-- Recognized the necessity of exploring alternative vectorization techniques, such as TF-IDF, and underscored the importance of tackling data imbalances to enhance the meaningfulness of sentiment representation and modeling.
+- Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
 
 ![]()
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
