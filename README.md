@@ -29,7 +29,7 @@ alone are insufficient for vocabulary generation.
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
-- Implemented **VGG16**, **ResNet50**, **Xception**, and MobileNet neural network models
+- Implemented **VGG16**, **ResNet50**, **Xception**, and **MobileNet** neural network models
 - Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
 - Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
 - Visualized accuracy and loss curves, and confusion matrices to compare model performances across tumor categories.
