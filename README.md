@@ -102,7 +102,7 @@ alone are insufficient for vocabulary generation.
 <hr>
 
 ## Work Experience
-**Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_Jan 2023 - Present_)
+**Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_Jan 2023 - Aug 2023_)
 
 - Completed projects in NLP, Computer Vision, Churn Prediction, and Time Series using Python.
 - Enhanced data via preprocessing and feature engineering.
