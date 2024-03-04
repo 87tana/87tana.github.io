@@ -102,7 +102,7 @@ alone are insufficient for vocabulary generation.
 <hr>
 
 ## Work Experience
-Data Scientist 10/2023 – present
+**Data Scientist** 10/2023 – present
 Lingolution GmbH, Munich, Germany
 - Provide advice on AI-based service integration requirements to align with early-stage startup goals.
 - Perform data collection, augmentation, and annotation.
