@@ -1,5 +1,5 @@
 # Data Scientist
-**Programming and Technology:** Python, MATLAB, Git,
+**Programming and Technology:** Python, MATLAB, Git, SQL, Docker
 
 <hr>
 
