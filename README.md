@@ -1,5 +1,5 @@
 # Data Scientist
-**Technology:** Python, MATLAB, Git, Pandas, NumPy, Sklearn, NLTK, Keras, TensorFlow, SQL
+**Programming and Technology:** Python, MATLAB, Git,
 
 <hr>
 
