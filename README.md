@@ -32,7 +32,7 @@ alone are insufficient for vocabulary generation.
 - Implemented **VGG16**, **ResNet50**, **Xception**, and **MobileNet** neural network models
 - Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
 - Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
-- Visualized accuracy and loss curves, and confusion matrices to compare model performances across tumor categories.
+- Generated visualizations of accuracy and loss curves, along with confusion matrices, to assess and compare model performance across different tumor categories.
 <br>[View 1st  Publication on Medium  \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
 <br>[View 2nd Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
