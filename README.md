@@ -1,5 +1,6 @@
 # Data Scientist
 **Programming and Technology:** Python, MATLAB, Git, SQL, Docker
+
 **Machine Learning and Deep Learning**: OpenCV, Scikit-learn, SciPy, Pillow, NLTK, Keras, TensorFlow
 
 <hr>
