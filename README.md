@@ -106,9 +106,8 @@ alone are insufficient for vocabulary generation.
 ## Work Experience
 **Data Scientist** <br>@ Lingolution GmbH, Munich, Germany (_Oct/2023 – Present_)
 
-- Provide advice on AI-based service integration requirements to align with early-stage startup goals.
-- Perform data collection, augmentation, and annotation.
-- Evaluate Deep Learning models for transfer learning considering scalability, efficiency and innovation
+--Conduct EDA and engage in feature engineering as the initial steps of the project.
+
 
 
 **Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_Jan 2023 - Aug 2023_)
