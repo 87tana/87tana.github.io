@@ -3,7 +3,7 @@
 
 **Machine Learning and Deep Learning**: OpenCV, Scikit-learn, SciPy, Pillow, NLTK, Keras, TensorFlow
 
-**Data Analysis and Visualization**: Pandas, NumPy, matplotlib
+**Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, plotly
 
 <hr>
 
