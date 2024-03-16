@@ -3,6 +3,8 @@
 
 **Machine Learning and Deep Learning**: OpenCV, Scikit-learn, SciPy, Pillow, NLTK, Keras, TensorFlow
 
+**Data Analysis and Visualization**: 
+
 <hr>
 
 ## Selected Projects
