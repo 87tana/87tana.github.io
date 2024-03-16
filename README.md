@@ -106,8 +106,10 @@ alone are insufficient for vocabulary generation.
 ## Work Experience
 **Data Scientist** <br>@ Lingolution GmbH, Munich, Germany (_Oct/2023 – Present_)
 
---Conduct EDA and engage in feature engineering as the initial steps of the project.
-
+- Conduct EDA and engage in feature engineering as the initial steps of the projec.
+- Augment and annotate data for clients to improve the training set for their AI-driven customer experience.
+- Aligned AI strategies with core business goals by advising stakeholders on market trends and competitor analysis
+for early-stage startup succe
 
 
 **Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_Jan 2023 - Aug 2023_)
