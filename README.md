@@ -5,6 +5,10 @@
 
 **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, plotly
 
+**Areas of Experience**: Advanced Statistical Analysis, Computer Vision, Image and Signal Processing, Predictive
+Modeling, Natural Language Processing (NLP), Cognitive Neuroscience.
+
+
 <hr>
 
 ## Selected Projects
