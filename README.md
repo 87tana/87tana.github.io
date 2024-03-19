@@ -55,7 +55,7 @@ alone are insufficient for vocabulary generation.
 - Trained logistic regression, KNN, and random forest models.
 - Boosted accuracy using sampling techniques, and reducing false positives by 15% .
 - Identified logistic regression as the most effective model with an AUC of 93%.
-- Presented findings and actionable insights to data scientist mentor through data visualizations and presentations.
+
 <br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
 
 
