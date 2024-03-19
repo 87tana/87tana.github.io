@@ -80,6 +80,7 @@ alone are insufficient for vocabulary generation.
 </p>
 
 []()
+- Hypothesis Testing, A/B testing
 - Merged six separate datasets into one comprehensive large dataset.
 - Performed feature engineering to extract more detailed features.
 - Trained Linear Regression, Gradient Boosting Regression, and Random Forest models.
