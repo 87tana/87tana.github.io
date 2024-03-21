@@ -1,7 +1,7 @@
 # Data Scientist
 **Programming and Technology:** Python, MATLAB, Git, SQL, Docker
 
-**Machine Learning and Deep Learning**: OpenCV, Scikit-learn, SciPy, Pillow, NLTK, Keras, TensorFlow
+**Machine Learning and Deep Learning**: OpenCV, Scikit-learn, SciPy, Pillow, NLTK, Keras, TensorFlow, PyTorch
 
 **Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, plotly
 
