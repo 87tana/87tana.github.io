@@ -120,10 +120,9 @@ alone are insufficient for vocabulary generation.
 
 **Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_Jan 2023 - Aug 2023_)
 
-- Completed projects in NLP, Computer Vision, Churn Prediction, and Time Series using Python.
-- Enhanced data via preprocessing and feature engineering.
-- Trained,fine-tuned, and meticulously analyzed Machine Learning and Deep Learning algorithms.
-- Addressed imbalanced datasets with machine learning and resampling techniques.
+- Completed projects in Computer Vision, Time Series, and NLP using Python.
+- Trained and validated Machine Learning and Deep Learning algorithms.
+- Performed EDA and addressed dataset challenges with preprocessing and feature engineering techniques.
 
 
 
