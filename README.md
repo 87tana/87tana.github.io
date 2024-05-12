@@ -113,7 +113,8 @@ alone are insufficient for vocabulary generation.
 ## Work Experience
 **Data Scientist** <br>@ Lingolution GmbH, Munich, Germany (_Oct/2023 – Present_)
 
-- Conduct feature engineering as the initial steps of the project.
+- Conduct proof of concept assessments including development of custom Machine learning and deep learning
+models for a project including computer vision, NLP and churn prediction.
 - Augment and annotate data for clients to improve the training set for their AI-driven customer experience.
 - Aligned AI strategies with core business goals by advising stakeholders on market trends and competitor analysis.
 
