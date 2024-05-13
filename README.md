@@ -101,6 +101,10 @@ alone are insufficient for vocabulary generation.
 
 <hr>
 
+### [Image Semantic Segmantation]
+
+
+
 ## Education						       		
 **M.Sc., Computational Neuro-Cognitive Science**
   <br>University of Oldenburg, Oldenburg, Germany (_July 2019_)
