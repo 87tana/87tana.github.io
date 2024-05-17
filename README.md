@@ -14,7 +14,7 @@ Modeling, Natural Language Processing (NLP), Cognitive Neuroscience.
 ## Selected Projects
 
 
-### U-Net: segmentation in medical imaging
+### [U-Net: segmentation in medical imaging](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <p align="center">
     <img width="500" src="/images/unetoverview.png" alt="Material Bread logo">
