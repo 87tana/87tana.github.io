@@ -13,6 +13,12 @@ Modeling, Natural Language Processing (NLP), Cognitive Neuroscience.
 
 ## Selected Projects
 
+
+### U-Net: segmentation in medical imaging
+
+- Optimized and fine-tuned a UNet-based deep learning segmentation model for brain tumor localization in MRI
+images, boosting the client’s system performance by 10%.
+
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
     <img width="500" src="/images/prom_dic_words.png" alt="Material Bread logo">
