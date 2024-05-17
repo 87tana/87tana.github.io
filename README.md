@@ -20,8 +20,9 @@ Modeling, Natural Language Processing (NLP), Cognitive Neuroscience.
     <img width="500" src="/images/unetoverview.png" alt="Material Bread logo">
 </p>
 
-- Optimized and fine-tuned a UNet-based deep learning segmentation model for brain tumor localization in MRI
-images, boosting the client’s system performance by 10%.
+- In this project, the U-Net architecture was implemented to enhance the segmentation of tumor images.
+- The model's performance was optimized and fine-tuned through systematic hyperparameter organization.
+- The framework's performance was evaluated using standard segmentation metrics, such as IoU and Dice Coefficient.
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
