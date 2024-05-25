@@ -10,7 +10,7 @@ I am always open to discussing potential collaborations. Feel free to contact me
 ## Selected Projects
 
 
-### [U-Net: segmentation in medical imaging](https://github.com/87tana/Image-Semantic-Segmentation)  
+### [U-Net: Segmentation in Medical Imaging](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <p align="center">
     <img width="500" src="/images/unetoverview.png" alt="Material Bread logo">
