@@ -1,13 +1,9 @@
 # Data Scientist
-**Programming and Technology:** Python, MATLAB, Git, SQL, Docker
+I hold a Master of Science in Computational Cognitive Neuroscience with a specialization in neuroimaging techniques, including signal processing and image analysis. This background has provided me with a solid foundation in machine learning and advanced multivariate statistics.
 
-**Machine Learning and Deep Learning**: OpenCV, Scikit-learn, SciPy, Pillow, NLTK, Keras, TensorFlow, PyTorch
+I have experience in developing, implementing, and optimizing machine learning and deep learning models, primarily using Python and various libraries and frameworks. I have a keen interest in projects related to computer vision and multi-modal data analysis and am eager to explore new areas and tackle challenging datasets.
 
-**Data Analysis and Visualization**: Pandas, NumPy, Matplotlib, Seaborn, plotly
-
-**Areas of Experience**: Advanced Statistical Analysis, Computer Vision(object recognition and object segmentation), Image and Signal Processing, Predictive
-Modeling, Natural Language Processing (NLP), Cognitive Neuroscience.
-
+I am always open to discussing potential collaborations. Feel free to contact me via email.
 
 <hr>
 
