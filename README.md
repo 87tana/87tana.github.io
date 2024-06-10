@@ -22,8 +22,6 @@ I am always open to discussing potential collaborations. Feel free to contact me
 - The framework's performance was evaluated using standard segmentation metrics, such as IoU and Dice Coefficient.
 
 
-
-
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
@@ -37,6 +35,21 @@ I am always open to discussing potential collaborations. Feel free to contact me
 - Generated visualizations of accuracy and loss curves, along with confusion matrices, to assess and compare model performance across different tumor categories.
 <br>[View 1st  Publication on Medium  \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
 <br>[View 2nd Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+
+
+### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
+<p align="center">
+    <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
+</p>
+
+- Analyzed fMRI image variability's impact on surface EEG and developed a cortical EEG pattern model.
+- Proposed two criteria for Common Spatial Pattern (CSP) filter selection to enhance motor imagery neurofeedback for neuroscientists.
+- Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
+- Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
+<br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
+<br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
+
+<hr>
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
@@ -97,19 +110,6 @@ alone are insufficient for vocabulary generation.
 - Identified Gradient Boosting Regression as the best performing model.
 ![]()
 
-### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
-<p align="center">
-    <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
-</p>
-
-- Analyzed fMRI image variability's impact on surface EEG and developed a cortical EEG pattern model.
-- Proposed two criteria for Common Spatial Pattern (CSP) filter selection to enhance motor imagery neurofeedback for neuroscientists.
-- Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
-- Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
-<br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
-<br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
-
-<hr>
 
 ### [Image Semantic Segmantation]
 
