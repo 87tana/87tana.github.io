@@ -9,7 +9,6 @@ I am always open to discussing potential collaborations. Feel free to contact me
 
 ## Selected Projects
 
-
 ### [Segmentation in Medical Imaging](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
@@ -20,7 +19,6 @@ I am always open to discussing potential collaborations. Feel free to contact me
 - In this project, the U-Net architecture was implemented to enhance the segmentation of tumor images.
 - The model's performance was optimized and fine-tuned through systematic hyperparameter organization.
 - The framework's performance was evaluated using standard segmentation metrics, such as IoU and Dice Coefficient.
-
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
@@ -82,8 +80,6 @@ alone are insufficient for vocabulary generation.
 <br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
 
 
-
-
 ### [Machine Learning and Deep Learning on Customer Churn Prediction](https://github.com/87tana/Churn_Prediction_ML_DeepL)
 <p align="center">
     <img width="400" src="/images/Userguiding-1.png" alt="Material Bread logo">
@@ -111,9 +107,6 @@ alone are insufficient for vocabulary generation.
 ![]()
 
 
-### [Image Semantic Segmantation]
-
-
 
 ## Education						       		
 **M.Sc., Computational Neuro-Cognitive Science**
@@ -138,7 +131,6 @@ models for a project including computer vision, NLP and churn prediction.
 - Completed projects in Computer Vision, Time Series, and NLP using Python.
 - Trained and validated Machine Learning and Deep Learning algorithms.
 - Performed EDA and addressed dataset challenges with preprocessing and feature engineering techniques.
-
 
 
 **Data Advisor**, **Product Developer** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
