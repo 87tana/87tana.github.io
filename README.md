@@ -14,6 +14,7 @@ I am always open to discussing potential collaborations. Feel free to contact me
 
 <p align="center">
     <img width="700" src="/images/Grandtruth.png" alt="Material Bread logo">
+    <p style="text-align: center;">Photo created by autor</p> 
 </p>
 
 - In this project, the U-Net architecture was implemented to enhance the segmentation of tumor images.
