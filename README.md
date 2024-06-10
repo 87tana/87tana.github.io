@@ -1,6 +1,6 @@
 # Data Scientist
 
-Technical Skills: 
+### Technical Skills: Python, MATLAB, Git, SQL, Docker, Keras, TensorFlow, PyTorch
 
 <hr>
 
