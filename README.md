@@ -20,21 +20,7 @@ I am always open to discussing potential collaborations. Feel free to contact me
 - The model's performance was optimized and fine-tuned through systematic hyperparameter organization.
 - The framework's performance was evaluated using standard segmentation metrics, such as IoU and Dice Coefficient.
 
-### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
-<p align="center">
-    <img width="500" src="/images/prom_dic_words.png" alt="Material Bread logo">
-</p>
 
-- Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
-- Conducted EDA and engaged in feature engineering as the initial steps of the project.
-- Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
-tagging**, followed by bag-of-words vectorization.
-- Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
-alone are insufficient for vocabulary generation.
-- Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
-
-![]()
-<br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
@@ -50,6 +36,22 @@ alone are insufficient for vocabulary generation.
 - Generated visualizations of accuracy and loss curves, along with confusion matrices, to assess and compare model performance across different tumor categories.
 <br>[View 1st  Publication on Medium  \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
 <br>[View 2nd Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+
+### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
+<p align="center">
+    <img width="500" src="/images/prom_dic_words.png" alt="Material Bread logo">
+</p>
+
+- Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
+- Conducted EDA and engaged in feature engineering as the initial steps of the project.
+- Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
+tagging**, followed by bag-of-words vectorization.
+- Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
+alone are insufficient for vocabulary generation.
+- Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
+
+![]()
+<br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
 
 ### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
