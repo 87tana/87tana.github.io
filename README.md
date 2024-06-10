@@ -119,11 +119,9 @@ alone are insufficient for vocabulary generation.
 ## Work Experience
 **Data Scientist** <br>@ Lingolution GmbH, Munich, Germany (_Oct/2023 – Present_)
 
-- Conduct proof of concept assessments including development of custom Machine learning and deep learning
-models for a project including computer vision, NLP and churn prediction.
-- Augment and annotate data for clients to improve the training set for their AI-driven customer experience.
-- Aligned AI strategies with core business goals by advising stakeholders on market trends and competitor analysis.
-
+- Align AI strategies with business goals by advising stakeholders on market trends and competitor analysis.
+- Enhance multimodal text and image datasets through augmentation, annotation, and feature extraction for the
+  development of clients’ machine learning models.
 
 **Data Scientist, Deep Learning** <br>@ Freelnce,(_Jan 2023 - Jan 2024_)
 
