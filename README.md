@@ -1,5 +1,6 @@
 # Data Scientist
-I hold a Master of Science in Computational Cognitive Neuroscience, I've significant foundation in machine learning and advanced statistics. I've applied this expertise to develop, implement, and optimize machine learning and deep learning models using Python and various libraries. I'm passionate about projects that combine computer vision and multi-modal data analysis. I'm excited to leverage my skills to tackle complex datasets and explore new areas of research.
+
+Technical Skills: 
 
 <hr>
 
