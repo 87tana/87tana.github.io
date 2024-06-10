@@ -1,9 +1,5 @@
 # Data Scientist
-I hold a Master of Science in Computational Cognitive Neuroscience with a specialization in neuroimaging techniques, including signal processing and image analysis. This background has provided me with a solid foundation in machine learning and advanced multivariate statistics.
-
-I have experience in developing, implementing, and optimizing machine learning and deep learning models, primarily using Python and various libraries and frameworks. I have a keen interest in projects related to computer vision and multi-modal data analysis and am eager to explore new areas and tackle challenging datasets.
-
-I am always open to discussing potential collaborations. Feel free to contact me via email(t.mostafid@gmail.com).
+I hold a Master of Science in Computational Cognitive Neuroscience, I've significant foundation in machine learning and advanced statistics. I've applied this expertise to develop, implement, and optimize machine learning and deep learning models using Python and various libraries. I'm passionate about projects that combine computer vision and multi-modal data analysis. I'm excited to leverage my skills to tackle complex datasets and explore new areas of research.
 
 <hr>
 
