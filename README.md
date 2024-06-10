@@ -41,7 +41,8 @@ The projects aim to develop and evaluate various neural network architectures fo
 <br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 <br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
 
-<hr>
+
+
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
