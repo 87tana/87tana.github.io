@@ -16,6 +16,7 @@
 
 The projects aim to develop and evaluate various neural network architectures for image segmentation tasks. The experiments involve training and testing different models, including ResNet-18, ResNet-34, and VGG16, with various configurations and hyperparameters.
 
+
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
@@ -27,8 +28,8 @@ The projects aim to develop and evaluate various neural network architectures fo
 - Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
 - Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
 - Generated visualizations of accuracy and loss curves, along with confusion matrices, to assess and compare model performance across different tumor categories.
-<br>[View 1st  Publication on Medium  \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
-<br>[View 2nd Publication on Medium  \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+<br>[Publication \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
+<br>[Publication \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
 
 ### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
