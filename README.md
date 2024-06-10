@@ -12,9 +12,7 @@ I hold a Master of Science in Computational Cognitive Neuroscience, I've signifi
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
-- In this project, the U-Net architecture was implemented to enhance the segmentation of tumor images.
-- The model's performance was optimized and fine-tuned through systematic hyperparameter organization.
-- The framework's performance was evaluated using standard segmentation metrics, such as IoU and Dice Coefficient.
+The projects aim to develop and evaluate various neural network architectures for image segmentation tasks. The experiments involve training and testing different models, including ResNet-18, ResNet-34, and VGG16, with various configurations and hyperparameters.
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
