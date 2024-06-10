@@ -13,7 +13,7 @@ I am always open to discussing potential collaborations. Feel free to contact me
 ### [Segmentation in Medical Imaging](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <p align="center">
-    <img width="400" src="/images/Grandtruth.png" alt="Material Bread logo">
+    <img width="700" src="/images/Grandtruth.png" alt="Material Bread logo">
 </p>
 
 - In this project, the U-Net architecture was implemented to enhance the segmentation of tumor images.
