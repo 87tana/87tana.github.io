@@ -132,7 +132,7 @@ models for a project including computer vision, NLP and churn prediction.
 
 **Data Advisor**, **Product Developer** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
 - Developed innovative features to enhance chatbot accuracy in AI conversational software.
-- Frontend and UI development, along with user interaction to provide guidance on the technical viability and practical execution of their digital initiatives.
+- Frontend and UI development, along with user interaction to provide guidance on the technical viability of software.
 - Worked with the engineering team to get the project into production.
 - Skilled in agile teamwork to deliver effective solutions by cross-functional collaboration.
 - Worked with AI scientists and product managers to define problems and potential solutions.
