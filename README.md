@@ -29,7 +29,7 @@ The projects aim to develop and evaluate various neural network architectures fo
 - Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
 - Generated visualizations of accuracy and loss curves, along with confusion matrices, to assess and compare model performance across different tumor categories.
 <br>[Publication \>](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
-<br>[Publication \>](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+<br>[Publication](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
 
 ### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
