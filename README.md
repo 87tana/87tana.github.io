@@ -32,7 +32,7 @@ The projects aim to develop and evaluate various neural network architectures fo
 <br>[Publication](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
 
-### [fMRI Image and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
+### [fMRI Image Analysis and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
 <p align="center">
     <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
@@ -41,8 +41,8 @@ The projects aim to develop and evaluate various neural network architectures fo
 - Proposed two criteria for Common Spatial Pattern (CSP) filter selection to enhance motor imagery neurofeedback for neuroscientists.
 - Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
 - Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
-<br>[View Results Presentation \>](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
-<br>[View Publication on Medium  \>](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
+<br>[View Results Presentation ](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
+<br>[View Publication on Medium](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
 
 
 
