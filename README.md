@@ -7,7 +7,7 @@
 
 ## Selected Projects
 
-### [Segmentation in Medical Imaging](https://github.com/87tana/Image-Semantic-Segmentation)  
+### [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
     <img width="700" src="/images/Grandtruth.png" alt="Material Bread logo">
@@ -15,6 +15,8 @@
 </div>
 
 The projects aim to develop and evaluate various neural network architectures for image segmentation tasks. The experiments involve training and testing different models, including ResNet-18, ResNet-34, and VGG16, with various configurations and hyperparameters.
+
+
 
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
