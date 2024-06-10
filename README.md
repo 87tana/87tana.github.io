@@ -125,11 +125,16 @@ models for a project including computer vision, NLP and churn prediction.
 - Aligned AI strategies with core business goals by advising stakeholders on market trends and competitor analysis.
 
 
-**Data Scientist, Machine Learning** <br>@ Freelnce, Skill Development (_Jan 2023 - Aug 2023_)
+**Data Scientist, Deep Learning** <br>@ Freelnce,(_Jan 2023 - Jan 2024_)
 
-- Completed projects in Computer Vision, Time Series, and NLP using Python.
-- Trained and validated Machine Learning and Deep Learning algorithms.
-- Performed EDA and addressed dataset challenges with preprocessing and feature engineering techniques.
+Completed three freelance data science projects:
+
+- Optimized and fine-tuned a UNet-based deep learning segmentation model for brain tumor localization in MRI
+images, boosting the client’s system performance by 10%.
+- Developed a ResNet-based decoder-encoder deep learning model for brain tumor classification in MRI images,
+enhancing the client’s system performance on their complex and imbalanced dataset by 15%.
+- Developed and validated a customer churn prediction model for an advertising client, achieving 85% accuracy
+on their dataset.
 
 
 **Data Advisor**, **Product Developer** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
