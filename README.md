@@ -53,7 +53,6 @@ The projects aim to develop and evaluate various neural network architectures fo
 </p>
 
 - Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
-- Conducted EDA and engaged in feature engineering as the initial steps of the project.
 - Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
 tagging**, followed by bag-of-words vectorization.
 - Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
