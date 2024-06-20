@@ -10,7 +10,7 @@
 ### [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
-    <img width="700" src="/images/Grandtruth.png" alt="Material Bread logo">
+    <img width="700" src="/images/NN.png" alt="Material Bread logo">
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
