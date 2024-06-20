@@ -19,10 +19,12 @@
 In this project, we aim to enhance image segmentation performance using deep learning techniques. Our primary focus is on developing and evaluating various neural network architectures to determine their effectiveness in segmentation tasks. We experiment with models such as ResNet-18, ResNet-34, and VGG16, exploring different configurations and tuning hyperparameters to optimize their performance. The goal is to identify the most effective architectures and configurations for image segmentation, contributing to advancements in this critical area of computer vision.
 
 
+
+
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
-    <img width="400" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
+    <img width="700" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
@@ -36,7 +38,7 @@ In this project, we aim to enhance image segmentation performance using deep lea
 
 ### [fMRI Image Analysis and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
 <p align="center">
-    <img width="600" src="/images/csp_selection.jpg" alt="Material Bread logo">
+    <img width="700" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
 
 - Analyzed fMRI image variability's impact on surface EEG and developed a cortical EEG pattern model.
@@ -51,7 +53,7 @@ In this project, we aim to enhance image segmentation performance using deep lea
 
 ### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
-    <img width="500" src="/images/prom_dic_words.png" alt="Material Bread logo">
+    <img width="700" src="/images/prom_dic_words.png" alt="Material Bread logo">
 </p>
 
 - Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
