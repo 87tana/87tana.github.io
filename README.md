@@ -18,6 +18,17 @@
 
 In this project, we aim to enhance image segmentation performance using deep learning techniques. Our primary focus is on developing and evaluating various neural network architectures to determine their effectiveness in segmentation tasks. We experiment with models such as ResNet-18, ResNet-34, and VGG16, exploring different configurations and tuning hyperparameters to optimize their performance. The goal is to identify the most effective architectures and configurations for image segmentation, contributing to advancements in this critical area of computer vision.
 
+### Methods:
+
+- **Deep Learning Frameworks:** Utilized PyTorch for developing and training neural network models.
+- **Neural Network Architectures:** Implemented and tested ResNet-18, ResNet-34, and VGG16 architectures for image segmentation tasks.
+- **Hyperparameter Tuning:** Experimented with various hyperparameters, including learning rates, batch sizes, and optimizer settings, to improve model performance.
+- **Data Augmentation:** Applied techniques such as rotation, scaling, and flipping to enhance the diversity of training data and improve model generalization.
+- **Loss Functions:** Evaluated different loss functions, including cross-entropy loss and Dice loss, to determine the most effective approach for segmentation tasks.
+- **Evaluation Metrics:** Assessed model performance using metrics like Intersection over Union (IoU) and F1 score to ensure comprehensive evaluation.
+- **Visualization Tools:** Used tools such as Matplotlib and OpenCV for visualizing segmentation results and monitoring training progress.
+
+GitHub repo: [https://github.com/username/ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
 
 
 
