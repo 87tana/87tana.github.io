@@ -67,7 +67,7 @@ alone are insufficient for vocabulary generation.
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
 
-## [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
+## [Optimizing Banking Data Models with ML on Imbalanced ClassesOptimizing Banking Data Models with ML on Imbalanced Classes](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
