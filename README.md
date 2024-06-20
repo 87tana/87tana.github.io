@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist 
 
 #### Programming and Technology: Python, MATLAB, Git, SQL, Docker
 #### Deep Learning Framework: Keras, TensorFlow, PyTorch
@@ -14,9 +14,9 @@
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
-The projects aim to develop and evaluate various neural network architectures for image segmentation tasks. The experiments involve training and testing different models, including ResNet-18, ResNet-34, and VGG16, with various configurations and hyperparameters.
+### Summery: 
 
-
+In this project, we aim to enhance image segmentation performance using deep learning techniques. Our primary focus is on developing and evaluating various neural network architectures to determine their effectiveness in segmentation tasks. We experiment with models such as ResNet-18, ResNet-34, and VGG16, exploring different configurations and tuning hyperparameters to optimize their performance. The goal is to identify the most effective architectures and configurations for image segmentation, contributing to advancements in this critical area of computer vision.
 
 
 ### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
