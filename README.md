@@ -7,7 +7,7 @@
 
 ## Selected Projects
 
-### [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
+## [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
     <img width="700" src="/images/NN.png" alt="Material Bread logo">
@@ -21,7 +21,7 @@ In this project, we aim to enhance image segmentation performance using deep lea
 
 
 
-### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
+## [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
     <img width="700" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
@@ -36,7 +36,7 @@ In this project, we aim to enhance image segmentation performance using deep lea
 <br>[Publication](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
 
-### [fMRI Image Analysis and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
+## [fMRI Image Analysis and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
 <p align="center">
     <img width="700" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
@@ -51,7 +51,7 @@ In this project, we aim to enhance image segmentation performance using deep lea
 
 
 
-### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
+## [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
     <img width="700" src="/images/prom_dic_words.png" alt="Material Bread logo">
 </p>
@@ -67,7 +67,7 @@ alone are insufficient for vocabulary generation.
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
 
-### [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
+## [Ml_Classification_Imbalance_Banking](https://github.com/87tana/Bank-Marketing_Prediction)
 <p align="center">
     <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
 </p>
@@ -81,7 +81,7 @@ alone are insufficient for vocabulary generation.
 <br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
 
 
-### [Machine Learning and Deep Learning on Customer Churn Prediction](https://github.com/87tana/Churn_Prediction_ML_DeepL)
+## [Machine Learning and Deep Learning on Customer Churn Prediction](https://github.com/87tana/Churn_Prediction_ML_DeepL)
 <p align="center">
     <img width="400" src="/images/Userguiding-1.png" alt="Material Bread logo">
 </p>
@@ -94,7 +94,7 @@ alone are insufficient for vocabulary generation.
 - Achieved commendable accuracy and ROC performance (~86%) across all models, except SVM.
 ![]()
 
-### [Time Series Predictions_StoreRevenue](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
+## [Time Series Predictions_StoreRevenue](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
 <p align="center">
     <img width="400" src="/images/aaa2.gif">
 </p>
