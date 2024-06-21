@@ -39,10 +39,17 @@ GitHub repo: [https://github.com/username/ImageSegmentation](https://github.com/
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
-- Implemented **VGG16**, **ResNet50**, **Xception**, and **MobileNet** neural network models
-- Applied data augmentation, generation, and normalization techniques for enhanced model robustness across datasets.
-- Conducted experiments to fine-tune hyperparameters, maximizing accuracy and minimizing loss.
-- Generated visualizations of accuracy and loss curves, along with confusion matrices, to assess and compare model performance across different tumor categories.
+
+### Summary: 
+
+I implemented several neural network models including **VGG16**, **ResNet50**, **Xception**, and **MobileNet**. These models utilized data augmentation, generation, and normalization techniques to enhance robustness across various datasets. Through extensive experiments, I fine-tuned hyperparameters to optimize accuracy and reduce loss. I visualized performance metrics such as accuracy and loss curves, and confusion matrices to compare the effectiveness of each model in classifying different tumor categories.
+
+### Methods:
+Data Augmentation, Neural Networks (VGG16, ResNet50, Xception, MobileNet), Hyperparameter Tuning, Visualization (accuracy and loss curves, confusion matrices).
+
+Publication: Details available upon request.
+
+
 <br>[Publication](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
 <br>[Publication](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
