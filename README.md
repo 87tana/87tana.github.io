@@ -19,8 +19,8 @@
 In this project, we aim to enhance image segmentation performance using deep learning techniques. Our primary focus is on developing and evaluating various neural network architectures to determine their effectiveness in segmentation tasks. We experiment with models such as ResNet-18, ResNet-34, and VGG16, exploring different configurations and tuning hyperparameters to optimize their performance. The goal is to identify the most effective architectures and configurations for image segmentation, contributing to advancements in this critical area of computer vision.
 
 ### Methods:
-
-- **Deep Learning Frameworks:** Utilized PyTorch for developing and training neural network models.
+In this project I use pyTorcha for developing and trianing neural networks models, I did several experiment with the goal of improving, the semantic segmenation in brain tumor. to do that I implement different models (ResNet-18, ResNet-34, and VGG16 architectures  )with different encoder and decoder. i.e., I implement and tested 
+- **Deep Learning Frameworks:** Utilized PyTorch for developing and training neural network models. 
 - **Neural Network Architectures:** Implemented and tested ResNet-18, ResNet-34, and VGG16 architectures for image segmentation tasks.
 - **Hyperparameter Tuning:** Experimented with various hyperparameters, including learning rates, batch sizes, and optimizer settings, to improve model performance.
 - **Data Augmentation:** Applied techniques such as rotation, scaling, and flipping to enhance the diversity of training data and improve model generalization.
