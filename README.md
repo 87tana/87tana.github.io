@@ -30,7 +30,7 @@ In this project I use pyTorcha for developing and trianing neural networks model
 
 GitHub repo: [https://github.com/username/ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
 
-Article:[Tumor Semantic Segmentation](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
+Article:[Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
 
 ## [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
