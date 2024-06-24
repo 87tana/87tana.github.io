@@ -28,7 +28,7 @@ In this project I use pyTorcha for developing and trianing neural networks model
 - **Evaluation Metrics:** Assessed model performance using metrics like Intersection over Union (IoU) and F1 score to ensure comprehensive evaluation.
 - **Visualization Tools:** Used tools such as Matplotlib and OpenCV for visualizing segmentation results and monitoring training progress.
 
-GitHub repo: [https://github.com/username/ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
+GitHub repo: [ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
 
 Article:[Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
 
