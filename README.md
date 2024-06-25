@@ -20,11 +20,16 @@ In the field of medical imaging, the U-Net architecture has been widely used due
 To overcome these challenges, we conducted an extensive exploration of alternative neural network architectures in this project. By examining a range of backbones, including ResNet-18, ResNet-34, ResNet-50, and VGG16, and fine-tuning the decoder layers, we aimed to enhance performance metrics such as intersection over union (IoU) and the Dice coefficient. Specifically, we investigated techniques such as reducing the upsampling factor, using interpolation instead of transposed convolution, adding more convolutional layers, and dilation to increase the receptive field. Our goal was to optimize the decoder layers and achieve better results.
 
 ### Methods:
-In this project, I used PyTorch for developing and training neural network models, conducting several experiments to improve semantic segmentation in brain tumors. I implemented and tested different models, including ResNet-18, ResNet-34, and VGG16 architectures, with various encoder and decoder configurations. To enhance model performance, I experimented with various hyperparameters, such as learning rates, batch sizes, and optimizer settings. I also applied data augmentation techniques like rotation, scaling, and flipping to increase the diversity of training data and improve model generalization. Different loss functions, including cross-entropy loss and Dice loss, were evaluated to identify the most effective approach for segmentation tasks. Model performance was assessed using metrics such as Intersection over Union (IoU) and F1 score to ensure comprehensive evaluation. Additionally, I used visualization tools like Matplotlib and OpenCV for visualizing segmentation results and monitoring training progress.
+In this project, I used PyTorch to develop and train neural network models for improving semantic segmentation in brain tumors. I experimented with various architectures, including ResNet-18, ResNet-34, and VGG16, and tuned hyperparameters such as learning rates, batch sizes, and optimizers to enhance model performance. To increase data diversity and improve generalization, I applied common data augmentation techniques in addition elastic deformation.  I evaluated different loss functions, including cross-entropy and Dice loss, to identify the most effective approach for segmentation tasks. Model performance was assessed using metrics like IoU and Dice Coefficient. 
 
-GitHub repo: [ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
 
-Article:[Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
+### GitHub repo:
+[ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
+
+### Article:
+[Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
+
+
 
 ## [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
