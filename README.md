@@ -1,9 +1,9 @@
-## Data Scientist 
+## Profile Overview
 
-#### Programming and Technology: Python, MATLAB, Git, SQL, Docker
-#### Deep Learning Framework: Keras, TensorFlow, PyTorch
 
-<hr>
+### Profile Overview
+
+- **Bio:** Data scientist specializing in computer vision with a background in medical imaging and signal processing.
 
 ### Selected Projects
 
