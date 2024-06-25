@@ -1,4 +1,4 @@
-# Data Scientist 
+## Data Scientist 
 
 #### Programming and Technology: Python, MATLAB, Git, SQL, Docker
 #### Deep Learning Framework: Keras, TensorFlow, PyTorch
