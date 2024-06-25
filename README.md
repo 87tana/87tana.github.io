@@ -1,7 +1,7 @@
 ### Profile Overview
 
 - **Bio:** Data scientist specializing in computer vision with a background in medical imaging and signal processing.
-- **Programming :** Python,MATLAB,Git,SQL,Docker
+- **Programming:** Python,MATLAB,Git,SQL,Docker
 - **Data Science Packages:** Scikit-Learn, SciPy, NumPy, Pandas, and Plotly
 - **Deep laerning Frameworks:** Keras,TensorFlow,PyTorch
 
@@ -15,8 +15,9 @@
 </div>
 
 ### Summery: 
-
-In this project, we aim to enhance image segmentation performance using deep learning techniques. Our primary focus is on developing and evaluating various neural network architectures to determine their effectiveness in segmentation tasks. We experiment with models such as ResNet-18, ResNet-34,ResNet50,  and VGG16 as a backbone exploring different configurations and tuning hyperparameters to optimize their performance. The goal is to identify the most effective architectures and configurations for image segmentation, contributing to advancements in this critical area of computer vision.
+in solving task in semantic segmentation in medical imaging task, it is common practice using U-Net as developed initially for mediacal imaging. however, after implementing the architecture in our dataset we figiure iut other architecture encoder decoder can be better due to some factors such ad small training exaple,  data. like
+ 
+In this project, we aim to improve semantic segmentation using deep learning techniques. Our primary goal is to develop and evaluate the best neural network architectures, experimenting with a variety of backbones, including ResNet-18, ResNet-34, ResNet-50, and VGG16, and fine-tuning the decoder layers and hyperparameters to optimise performance.
 
 ### Methods:
 In this project, I used PyTorch for developing and training neural network models, conducting several experiments to improve semantic segmentation in brain tumors. I implemented and tested different models, including ResNet-18, ResNet-34, and VGG16 architectures, with various encoder and decoder configurations. To enhance model performance, I experimented with various hyperparameters, such as learning rates, batch sizes, and optimizer settings. I also applied data augmentation techniques like rotation, scaling, and flipping to increase the diversity of training data and improve model generalization. Different loss functions, including cross-entropy loss and Dice loss, were evaluated to identify the most effective approach for segmentation tasks. Model performance was assessed using metrics such as Intersection over Union (IoU) and F1 score to ensure comprehensive evaluation. Additionally, I used visualization tools like Matplotlib and OpenCV for visualizing segmentation results and monitoring training progress.
