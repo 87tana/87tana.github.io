@@ -35,7 +35,7 @@ In this project, I used PyTorch to develop and train neural network models for i
 #### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
-    <img width="700" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
+    <img width="600" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
