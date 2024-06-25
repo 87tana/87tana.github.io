@@ -1,6 +1,3 @@
-## Profile Overview
-
-
 ### Profile Overview
 
 - **Bio:** Data scientist specializing in computer vision with a background in medical imaging and signal processing.
@@ -10,10 +7,10 @@
 
 ### Selected Projects
 
-## [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
+#### [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
-    <img width="700" src="/images/NN.png" alt="Material Bread logo">
+    <img width="600" src="/images/NN.png" alt="Material Bread logo">
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
