@@ -5,7 +5,7 @@
 
 <hr>
 
-## Selected Projects
+### Selected Projects
 
 ## [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
 
