@@ -1,11 +1,12 @@
-### Profile Overview
+## Profile Overview
 
 - **Bio:** Data scientist specializing in computer vision with a background in medical imaging and signal processing.
 - **Programming:** Python,MATLAB,Git,SQL,Docker
 - **Data Science Packages:** Scikit-Learn, SciPy, NumPy, Pandas, and Plotly
 - **Deep laerning Frameworks:** Keras,TensorFlow,PyTorch
 
-### Selected Projects
+
+## Selected Projects:
 
 #### [Improving Image Segmentation Performance with Deep Learning](https://github.com/87tana/Image-Semantic-Segmentation)  
 
@@ -29,9 +30,9 @@ In this project, I used PyTorch to develop and train neural network models for i
 ### Article:
 [Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
 
+##
 
-
-## [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
+#### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
     <img width="700" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
