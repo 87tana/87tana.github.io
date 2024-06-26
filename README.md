@@ -86,48 +86,6 @@ alone are insufficient for vocabulary generation.
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
 
-## [Optimizing Banking Data Models with ML on Imbalanced ClassesOptimizing Banking Data Models with ML on Imbalanced Classes](https://github.com/87tana/Bank-Marketing_Prediction)
-<p align="center">
-    <img width="400" src="/images/Rincian-Biaya-Operasi.jpg" alt="Material Bread logo">
-</p>
-
-- Analyzed customer subscription probability using classification methods.
-- Conducted exploratory data analysis.
-- Trained logistic regression, KNN, and random forest models.
-- Boosted accuracy using sampling techniques, and reducing false positives by 15% .
-- Identified logistic regression as the most effective model with an AUC of 93%.
-
-<br>[View Results Presentation \>](https://github.com/87tana/Bank-Marketing_Prediction/blob/main/Bank_Casestudy_ML.pdf)
-
-
-## [Machine Learning and Deep Learning on Customer Churn Prediction](https://github.com/87tana/Churn_Prediction_ML_DeepL)
-<p align="center">
-    <img width="400" src="/images/Userguiding-1.png" alt="Material Bread logo">
-</p>
-
-[]()
-- Applied Logistic Regression, SVC, XGBClassifier, and Forward Neural Network for customer churn prediction.
-- Conducted exploratory data analysis to unveil underlying patterns.
-- Improved accuracy using the SMOTETomek resampling technique, reducing false positives.
-- Trained Logistic Regression, SVM, XGBoost, and FNN models.
-- Achieved commendable accuracy and ROC performance (~86%) across all models, except SVM.
-![]()
-
-## [Time Series Predictions_StoreRevenue](https://github.com/87tana/Store-Sales_Time-SeriesForecasting)
-<p align="center">
-    <img width="400" src="/images/aaa2.gif">
-</p>
-
-[]()
-- Hypothesis Testing, A/B testing
-- Merged six separate datasets into one comprehensive large dataset.
-- Performed feature engineering to extract more detailed features.
-- Trained Linear Regression, Gradient Boosting Regression, and Random Forest models.
-- Identified Gradient Boosting Regression as the best performing model.
-![]()
-
-
-
 ## Education						       		
 **M.Sc., Computational Neuro-Cognitive Science**
   <br>University of Oldenburg, Oldenburg, Germany (_July 2019_)
@@ -159,12 +117,9 @@ on their imbalance dataset.
 
 **Data Advisor**, **Product Developer** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
 - Developed innovative features to enhance chatbot accuracy in AI conversational software.
-- Frontend and UI development, along with user interaction to provide guidance on the technical viability of software.
-- Worked with the engineering team to get the project into production.
-- Skilled in agile teamwork to deliver effective solutions by cross-functional collaboration.
-- Worked with AI scientists and product managers to define problems and potential solutions.
-- Performed data exploration to identify patterns for establishing precise problem definitions.
-- Performed product analytics and presented data-driven insights to stakeholders by data visualization.
+- Improved user experience through frontend and UI development.
+- Collaborated cross-functionally with AI scientists and developers in agile development.
+- Conducted product analysis and presented data-driven insights to stakeholders.
 
 
 
