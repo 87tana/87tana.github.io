@@ -146,7 +146,7 @@ alone are insufficient for vocabulary generation.
 * Analyze client datasets to identify trends, patterns, and insights that can inform model development and improvement, and conduct experiments to evaluate performance using metrics
   
 
-**Data Scientist, Deep Learning** <br>  @ Freelnce  <br>(_Jan 2023 - Sep 2023_)
+**Data Scientist, Deep Learning Practitioner** <br>  @ Freelnce  <br>(_Jan 2023 - Sep 2023_)
 
 Completed three freelance data science and computer vision projects:
 - Optimized and fine-tuned a UNet-based deep learning semantic segmentation model for brain tumor localization in MRI
