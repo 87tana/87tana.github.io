@@ -137,23 +137,23 @@ alone are insufficient for vocabulary generation.
 
 <hr>
 
-## Work Experience
-**Data Scientist** <br>@ Lingolution GmbH, Munich, Germany (_Oct/2023 – Present_)
+## Work Experience  
 
-- Align AI strategies with business goals by advising stakeholders on market trends and competitor analysis.
-- Enhance multimodal text and image datasets through augmentation, annotation, and feature extraction for the
-  development of clients’ machine learning models.
+**Data Scientist, Deep Learning**  <br> @ Lingolution GmbH, Munich, Germany <br> (_Oct/2023 – Present_)
 
-**Data Scientist, Deep Learning** <br>@ Freelnce,(_Jan 2023 - Jan 2024_)
+* Developed and implemented AI-powered image captioning and multimodal sentiment analysis models to enhance the accessibility and searchability of visual content and improve the understanding of sentiment and emotions expressed in messages.
+* Collaborated with linguists and language experts to ensure accuracy, cultural sensitivity, and meeting the needs of diverse language users.
+* Analyzed client datasets to identify trends, patterns, and insights that can inform model development and improvement, and conducted experiments to evaluate performance using metrics. 
 
-Completed three freelance data science projects:
+**Data Scientist, Deep Learning** <br>  @ Freelnce  <br>(_Jan 2023 - Sep 2023_)
 
-- Optimized and fine-tuned a UNet-based deep learning segmentation model for brain tumor localization in MRI
-images, boosting the client’s system performance by 10%.
+Completed three freelance data science and computer vision projects:
+- Optimized and fine-tuned a UNet-based deep learning semantic segmentation model for brain tumor localization in MRI
+images, boosting the client’s system performance by 15%.
 - Developed a ResNet-based decoder-encoder deep learning model for brain tumor classification in MRI images,
-enhancing the client’s system performance on their complex and imbalanced dataset by 15%.
+enhancing the client’s system performance on their complex and imbalanced dataset by 10%.
 - Developed and validated a customer churn prediction model for an advertising client, achieving 85% accuracy
-on their dataset.
+on their imbalance dataset.
 
 
 **Data Advisor**, **Product Developer** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
