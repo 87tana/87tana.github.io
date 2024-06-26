@@ -48,10 +48,10 @@ Data Augmentation, Neural Networks (VGG16, ResNet50, Xception, MobileNet), Hyper
 ### GitHub repo:
 [ImageSegmentation](https://github.com/87tana/Image-Classification-Neural-Network-Architecture-Comparison-)
 
-
 ### Article:
-<br>[Publication](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
-<br>[Publication](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+[Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
+
+[Brain Tumor Classification: Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural Networks on MRI Images](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
 
 
