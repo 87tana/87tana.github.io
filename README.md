@@ -139,11 +139,12 @@ alone are insufficient for vocabulary generation.
 
 ## Work Experience  
 
-**Data Scientist, Deep Learning**  <br> @ Lingolution GmbH, Munich, Germany <br> (_Oct/2023 – Present_)
+**Data Science Consultant - Multimodal AI:**  <br> @ Lingolution GmbH, Munich, Germany <br> (_Oct/2023 – Present_)
 
-* Developed and implemented AI-powered image captioning and multimodal sentiment analysis models to enhance the accessibility and searchability of visual content and improve the understanding of sentiment and emotions expressed in messages.
-* Collaborated with linguists and language experts to ensure accuracy, cultural sensitivity, and meeting the needs of diverse language users.
-* Analyzed client datasets to identify trends, patterns, and insights that can inform model development and improvement, and conducted experiments to evaluate performance using metrics. 
+* Develop and implement AI-powered models to analyze and process multimodal data, including images and text, to extract insights and inform decision-making.
+* Collaborate with linguists and language experts to ensure accuracy, cultural sensitivity, and meeting the needs of diverse language users.
+* Analyze client datasets to identify trends, patterns, and insights that can inform model development and improvement, and conduct experiments to evaluate performance using metrics
+  
 
 **Data Scientist, Deep Learning** <br>  @ Freelnce  <br>(_Jan 2023 - Sep 2023_)
 
