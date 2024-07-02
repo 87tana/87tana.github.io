@@ -95,7 +95,56 @@ alone are insufficient for vocabulary generation.
 
 <hr>
 
-## Work Experience  
+## Selected Work Experience  
+
+Computer Vision Researcher, Deep Learning
+Freelance (Self employed)Freelance (Self employed)
+1 yr1 yr
+
+    
+    FreelanceFreelance Jan 2024 - Present · 7 mosJan 2024 to Present · 7 mos RemoteRemote
+            - Developed a ResNet-based decoder-encoder deep learning model for brain tumor classification in MRI images, enhancing the client’s system performance on their complex and imbalanced dataset by 15%.
+
+            - Optimized and fine-tuned a UNet-based deep learning segmentation model for brain tumor localization in MRI images, boosting the client’s system performance by 10%.
+
+            - Initiated and executed proof-of-concept models, validating ML and DL algorithms to assess feasibility and potential impact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Data Science Consultant - Multimodal AI:**  <br> @ Lingolution GmbH, Munich, Germany <br> (_Oct/2023 – Present_)
 
