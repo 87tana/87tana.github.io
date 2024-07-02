@@ -97,8 +97,7 @@ alone are insufficient for vocabulary generation.
 
 ## Selected Work Experience  
 
-**Computer Vision Researcher, Deep Learning**
-Freelance (Self employed)
+**Computer Vision Researcher, Deep Learning:**    <br> @ Freelance GmbH, Munich, Germany <br> (_Jan/2024 – Present_)
 
 - Developed a ResNet-based decoder-encoder deep learning model for brain tumor classification in MRI images, enhancing the client’s system performance on their complex and imbalanced dataset by 15%.
 
@@ -107,6 +106,7 @@ Freelance (Self employed)
 - Initiated and executed proof-of-concept models, validating ML and DL algorithms to assess feasibility and potential impact
 
  
+
 
 
 
