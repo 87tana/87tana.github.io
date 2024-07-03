@@ -17,9 +17,8 @@
 
 ### Summery: 
 
-Experiments
+In this study, I explore the impacts of different components of an encoder-decoder convolutional neural network (CNN) for tumor segmentation in the 2D MRI Brain Tumor Image Dataset.
 To study the effects of network structure on segmentation results, I conducted ablation studies on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
-
 
 
 To overcome these challenges, we conducted an extensive exploration of alternative neural network architectures in this project. By examining a range of backbones, including ResNet-18, ResNet-34, ResNet-50, and VGG16, and fine-tuning the decoder layers, we aimed to enhance performance metrics such as intersection over union (IoU) and the Dice coefficient. Specifically, we investigated techniques such as reducing the upsampling factor, using interpolation instead of transposed convolution, adding more convolutional layers, and dilation to increase the receptive field. Our goal was to optimize the decoder layers and achieve better results.
