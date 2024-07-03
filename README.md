@@ -16,7 +16,11 @@
 </div>
 
 ### Summery: 
-In the field of medical imaging, the U-Net architecture has been widely used due to its initial success in this area. However, after applying U-Net to our dataset, we discovered that other encoder-decoder architectures might be more effective in addressing our specific difficulties. These challenges include limited training data, biased annotations, and the complexities of medical imaging data, such as uncertainty in location and morphology.
+
+Experiments
+To study the effects of network structure on segmentation results, I conducted ablation studies on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
+
+
 
 To overcome these challenges, we conducted an extensive exploration of alternative neural network architectures in this project. By examining a range of backbones, including ResNet-18, ResNet-34, ResNet-50, and VGG16, and fine-tuning the decoder layers, we aimed to enhance performance metrics such as intersection over union (IoU) and the Dice coefficient. Specifically, we investigated techniques such as reducing the upsampling factor, using interpolation instead of transposed convolution, adding more convolutional layers, and dilation to increase the receptive field. Our goal was to optimize the decoder layers and achieve better results.
 
