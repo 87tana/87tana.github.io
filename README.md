@@ -98,37 +98,6 @@ alone are insufficient for vocabulary generation.
 
 <hr>
 
-## Selected Work Experience  
-
-
-**Computer Vision Researcher, Deep Learning:**    <br> @ Freelance GmbH, Munich, Germany <br> (_Jan/2024 – Present_)
-
-- Developed a ResNet-based decoder-encoder deep learning model for brain tumor classification in MRI images, enhancing the client’s system performance on their complex and imbalanced dataset by 15%.
-
-- Optimized and fine-tuned a UNet-based deep learning segmentation model for brain tumor localization in MRI images, boosting the client’s system performance by 10%.
-
-- Initiated and executed proof-of-concept models, validating ML and DL algorithms to assess feasibility and potential impact
-
-
-
-
-* Develop and implement AI-powered models to analyze and process multimodal data, including images and text, to extract insights and inform decision-making.
-* Collaborate with linguists and language experts to ensure accuracy, cultural sensitivity, and meeting the needs of diverse language users.
-* Analyze client datasets to identify trends, patterns, and insights that can inform model development and improvement, and conduct experiments to evaluate performance using metrics
-
-
-**Data Scientist, Deep Learning Practitioner** <br>  @ Freelnce  <br>(_Jan 2023 - Sep 2023_)
-
-- Define a proof of concept for a potential AI solution as the first steps of the project for a startup.(Lingolution GmbH)
-- Align AI strategies with business goals by advising stakeholders on market trends and competitor analysis.
-- Enhance multi-modal text and image datasets through augmentation, annotation, and feature extraction for the development of clients’ machine learning models.
-
-**Data Advisor**, **Product Developer** <br>@ bao Solution GmbH, Munich, Germany (_November 2021 - Present_)
-- Developed innovative features to enhance chatbot accuracy in AI conversational software.
-- Improved user experience through frontend and UI development.
-- Collaborated cross-functionally with AI scientists and developers in agile development.
-- Conducted product analysis and presented data-driven insights to stakeholders.
-
 
 
 
