@@ -1,6 +1,6 @@
 ## Profile Overview
 
-- **Bio:** Data scientist specializing in computer vision with a background in medical imaging and signal processing.
+- **Bio:** Data scientist specializing in computer vision with a background in neuroimaging and biosignal processing.
 - **Programming:** Python,MATLAB,Git,SQL,Docker
 - **Data Science Packages:** Scikit-Learn, SciPy, NumPy, Pandas, and Plotly
 - **Deep laerning Frameworks:** Keras,TensorFlow,PyTorch
