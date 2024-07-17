@@ -14,18 +14,30 @@
 
 <div align="center">
     <img width="800" src="/images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
-    <p style= "text-align: center;">Studied Segmentation Network,Created by autor.</p> 
+    <p style= "text-align: center;">Figure 1: Studied Segmentation Network,Created by autor.</p> 
 </div>
 
 ### Summary: 
 
 In this project, I explore the impacts of different components of an encoder-decoder convolutional neural network (CNN) for tumor segmentation in the 2D MRI Brain Tumor Image Dataset.
-I propose the CNN model shown in Figure above and compare the performance of **ResNet-18** and **VGG-16 backbones**. The influence of data augmentation techniques is examined, followed by an exploration of various modifications in the decoder architecture, including different upsampling levels, skip connections, and dilated convolutions. I also compare the effectiveness of **Binary Cross Entropy (BCE)** and **Dice loss functions** in training the model.
+I propose the CNN model shown in Figure 1 and compare the performance of **ResNet-18** and **VGG-16 backbones**. The influence of data augmentation techniques is examined, followed by an exploration of various modifications in the decoder architecture, including different upsampling levels, skip connections, and dilated convolutions. I also compare the effectiveness of **Binary Cross Entropy (BCE)** and **Dice loss functions** in training the model.
 
 Experimental results indicate that, for this dataset, ResNet-18 is a better choice for the backbone, and BCE results in slightly better training performance. Additionally, using dilated convolutions in the decoder improves segmentation results. Moreover, augmentation helps increase the model’s generalizability.
 
 ### Methods:
-In this project, I used PyTorch to develop and train neural network models for improving semantic segmentation in brain tumors. I experimented with various architectures, including ResNet-18, ResNet-34, and VGG16, and tuned hyperparameters such as learning rates, batch sizes, and optimizers to enhance model performance. To increase data diversity and improve generalization, I applied common data augmentation techniques in addition elastic deformation.  I evaluated different loss functions, including cross-entropy and Dice loss, to identify the most effective approach for segmentation tasks. Model performance was assessed using metrics like IoU and Dice Coefficient. 
+I conducted oblation studies, to assess the effects of network structure on segmentation results,on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
+
+I used standard metrics such as IoU, Dice, precision, and recall to evaluate the performance of each model. I use a threshold of 0.5 to generate the prediction masks from the probability maps.
+
+### Final Experiment:
+In the final experiment, I incorporated the findings from the previous ablation studies. I used the baseline model with dilated convolutions as explained earlier, applied the BCE loss function, and randomly applied augmentation to 50% of the samples. Table 1 shows the segmentation results on the validation and test sets. Compared to Table 4, the test results show a significant improvement over the previous experiments.
+
+
+<div align="center">
+    <img width="800" src="/images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
+    <p style= "text-align: center;">Figure 1: Studied Segmentation Network,Created by autor.</p> 
+</div>
+
 
 
 ### GitHub repo:
