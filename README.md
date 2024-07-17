@@ -75,6 +75,16 @@ Experiments were conducted on Google Colab with GPU acceleration. Pre-trained mo
 
 Model performance was evaluated using confusion matrices, precision, recall, F1-score, and accuracy metrics.
 
+
+### Evaluation
+Here I provides a quantitative evaluation of the trained models on the test set, including Precision, Recall, F1-Score, Accuracy, and class-size weighted Accuracy metrics.
+The best value for each metric is highlighted in green. wACC indicate the class-size weighted accuracies.
+
+<div align="center">
+    <img width="800" src="/images/Screenshot from 2024-07-17 19-13-07.png" alt="Material Bread logo">
+    <p style= "text-align: center;">Table 2: Model evaluation on the test set,Created by autor.</p> 
+</div>
+
 ### GitHub repo:
 [ImageSegmentation](https://github.com/87tana/Image-Classification-Neural-Network-Architecture-Comparison-)
 
