@@ -8,7 +8,7 @@
 
 ## Selected Projects:
 
-#### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
+### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
     <img width="600" src="/images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
