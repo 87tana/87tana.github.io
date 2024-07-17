@@ -61,7 +61,7 @@ In the final experiment, I incorporated the findings from the previous ablation 
 
 <div align="center">
     <img width="600" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
-    <p style="text-align: center;">Photo created by autor</p> 
+    <p style="text-align: center;">Figure 2:Sample images from the Brain Tumor Classification dataset.Photo created by autor</p> 
 </div>
 
 ### Summary: 
