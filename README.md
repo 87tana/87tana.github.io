@@ -19,12 +19,10 @@
 
 ### Summary: 
 
-The project focuses on evaluating different configurations of an encoder-decoder convolutional neural network (CNN) to identify the most effective techniques for tumor segmentation using 2D MRI brain tumor images.
+In this project, I explore the impacts of different components of an encoder-decoder convolutional neural network (CNN) for tumor segmentation in the 2D MRI Brain Tumor Image Dataset.
+I propose the CNN model shown in Figure above and compare the performance of **ResNet-18** and **VGG-16 backbones**. The influence of data augmentation techniques is examined, followed by an exploration of various modifications in the decoder architecture, including different upsampling levels, skip connections, and dilated convolutions. I also compare the effectiveness of **Binary Cross Entropy (BCE)** and **Dice loss functions** in training the model.
 
-To study the effects of network structure on segmentation results, I conducted ablation studies on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
-
-
-To overcome these challenges, we conducted an extensive exploration of alternative neural network architectures in this project. By examining a range of backbones, including ResNet-18, ResNet-34, ResNet-50, and VGG16, and fine-tuning the decoder layers, we aimed to enhance performance metrics such as intersection over union (IoU) and the Dice coefficient. Specifically, we investigated techniques such as reducing the upsampling factor, using interpolation instead of transposed convolution, adding more convolutional layers, and dilation to increase the receptive field. Our goal was to optimize the decoder layers and achieve better results.
+Experimental results indicate that, for this dataset, ResNet-18 is a better choice for the backbone, and BCE results in slightly better training performance. Additionally, using dilated convolutions in the decoder improves segmentation results. Moreover, augmentation helps increase the model’s generalizability.
 
 ### Methods:
 In this project, I used PyTorch to develop and train neural network models for improving semantic segmentation in brain tumors. I experimented with various architectures, including ResNet-18, ResNet-34, and VGG16, and tuned hyperparameters such as learning rates, batch sizes, and optimizers to enhance model performance. To increase data diversity and improve generalization, I applied common data augmentation techniques in addition elastic deformation.  I evaluated different loss functions, including cross-entropy and Dice loss, to identify the most effective approach for segmentation tasks. Model performance was assessed using metrics like IoU and Dice Coefficient. 
