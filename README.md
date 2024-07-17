@@ -45,16 +45,19 @@ In the final experiment, I incorporated the findings from the previous ablation 
 ### GitHub repo:
 [ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
 
-### Article:
+### Articles out of this project:
 
 [Exploring CNN Components for Tumor segmentation in MRI Images:An oblation study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083)
 
 
 [Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
 
+
+
 ##
 
-#### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
+
+### [Comparative Analysis of CNN Architectures for Brain Tumor Classification in MRI Images](https://github.com/87tana/Brain_Tumor_Classification_Network_Comparison)
 
 <div align="center">
     <img width="600" src="/images/sanple_images_brain_tumor_dataset.png" alt="Material Bread logo"> 
@@ -62,15 +65,20 @@ In the final experiment, I incorporated the findings from the previous ablation 
 </div>
 
 ### Summary: 
-I implemented several neural network models including **VGG16**, **ResNet50**, **Xception**, and **MobileNet**. These models utilized data augmentation, generation, and normalization techniques to enhance robustness across various datasets. Through extensive experiments, I fine-tuned hyperparameters to optimize accuracy and reduce loss. I visualized performance metrics such as accuracy and loss curves, and confusion matrices to compare the effectiveness of each model in classifying different tumor categories.
+This project aims to evaluate the performance of four leading deep convolutional neural network(CNN) models, including **VGG16**, **ResNet50**, **Xception**, and **MobileNet** in classifying brain tumors.The implementations are based on TensorFlow and Keras, using the Categorical Cross-Entropy loss and the Adam optimizer. Data augmentation is applied during model training to increase diversity and generalizability. Experiments are performed on Google Colab.
 
 ### Methods:
-Data Augmentation, Neural Networks (VGG16, ResNet50, Xception, MobileNet), Hyperparameter Tuning, Visualization (accuracy and loss curves, confusion matrices).
+
+I evaluated the performance of VGG16, ResNet50, Xception, and MobileNetV1 for brain tumor classification using MRI images. The dataset was split into 2870 training and 394 test images, with a validation set from 15% of the training set. Data augmentation (rotation, flipping, zooming, etc.) and normalization (rescale to [0, 1]) were applied.
+
+Experiments were conducted on Google Colab with GPU acceleration. Pre-trained models were fine-tuned on the last three layers. I used the Adam optimizer and Categorical Cross-Entropy loss, adjusting learning rates and epochs to prevent overfitting.
+
+Model performance was evaluated using confusion matrices, precision, recall, F1-score, and accuracy metrics.
 
 ### GitHub repo:
 [ImageSegmentation](https://github.com/87tana/Image-Classification-Neural-Network-Architecture-Comparison-)
 
-### Article:
+### Articles out of this project:
 [Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
 
 [Brain Tumor Classification: Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural Networks on MRI Images](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
