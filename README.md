@@ -100,13 +100,21 @@ The best value for each metric is highlighted in green. wACC indicate the class-
     <img width="700" src="/images/csp_selection.jpg" alt="Material Bread logo">
 </p>
 
-- Analyzed fMRI image variability's impact on surface EEG and developed a cortical EEG pattern model.
-- Proposed two criteria for Common Spatial Pattern (CSP) filter selection to enhance motor imagery neurofeedback for neuroscientists.
-- Preliminary finding: Plausibility of CSP filters can be measured through simulated anatomical patterns, not always through Event-Related Distribution.
-- Analyzed and visualized data using MATLAB, presenting results in the Master's Thesis.
+### Summary:
+In my master's thesis, I investigated the functional and anatomical variability of the hand knob on surface EEG through a two-part study.I conducted an extensive analysis of a large brain dataset comprising EEG and fMRI data using MATLAB. My research focused on feature extraction and pattern recognition. I investigated the impact of fMRI image variability on EEG, developing a cortical EEG pattern model.
+
+Additionally, I proposed two criteria for selecting Common Spatial Pattern (CSP) filters to improve motor imagery neurofeedback applications for Brain-Computer Interface (BCI) research. My preliminary findings indicated that while the similarity of CSP filters to simulated anatomical patterns can be used to measure their plausibility, Event-Related Distribution may not always be an accurate measure. The results of my analysis were presented in my Master's Thesis.
+
+### Methods:
+The dataset consisted of separately recorded EEG and fMRI data from healthy subjects during hand motor activity. The hypothesis was that anatomical variability might correlate with cortical activity. To test this, I classified subjects into five categories based on the shape of their hand knob area and used the BrainStorm toolbox to simulate their cortical activity.
+
+Due to the lack of simultaneous EEG and fMRI recordings, I marked motor activity on the structure based on fMRI data and simulated surface EEG using the BrainStorm toolbox for the selected area. I calculated Common Spatial Patterns (CSPs) from the EEG data and assessed their plausibility using a heuristic approach from the literature. To validate the hypothesis, I compared the simulated EEG patterns with CSPs based on their correlation and Event-Related Distributions (ERDs). 
+
+The results indicated that simulated EEG aids in selecting more plausible CSP filters, with correlation proving to be a better measure of similarity than ERD. Despite the limited number of subjects posing a challenge, the study demonstrated the value of using simulated EEG for improving CSP filter selection for motor imagery neurofeedback applications. Data preprocessing included segmenting EEG data into epochs, applying filtering, artifact removal, baseline correction, computing covariance matrices, spatial filter calculation, normalization, and classification.
+
+
 <br>[View Results Presentation ](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 <br>[View Publication on Medium](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
-
 
 
 
