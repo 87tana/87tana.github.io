@@ -15,7 +15,7 @@
     <p style="text-align: center;">Photo created by autor</p> 
 </div>
 
-### Summery: 
+### Summary: 
 
 The project focuses on evaluating different configurations of an encoder-decoder convolutional neural network (CNN) to identify the most effective techniques for tumor segmentation using 2D MRI brain tumor images.
 
