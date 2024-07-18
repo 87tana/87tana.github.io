@@ -135,6 +135,16 @@ The results indicated that simulated EEG aids in selecting more plausible CSP fi
 <br>[View Publication on Medium](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
 
 
+## 
+
+### Publication:
+
+- Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study, Medium – 07/2024
+- Brain Tumor Classification: Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural
+Networks on MRI Images, Medium – 12/2023
+- Optimized Spatial Filter Selection in Brain-Computer Interfaces: A Data-Driven Approach, Medium – 11/2023
+
+
 
 
 
