@@ -130,6 +130,8 @@ tagging**, followed by bag-of-words vectorization.
 alone are insufficient for vocabulary generation.
 - Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
 
+### Article out of this project:
+
 ![]()
 <br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
 
