@@ -132,8 +132,8 @@ alone are insufficient for vocabulary generation.
 
 ### Article out of this project:
 
-![]()
-<br>[View NLP Publication on Medium  \>](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)
+[Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis: A Case Study on Amazon Fine Food Reviews](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)  
+
 
 
 
