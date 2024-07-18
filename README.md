@@ -118,7 +118,7 @@ The results indicated that simulated EEG aids in selecting more plausible CSP fi
 
 
 
-## [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
+### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
 <p align="center">
     <img width="700" src="/images/prom_dic_words.png" alt="Material Bread logo">
 </p>
