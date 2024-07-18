@@ -42,10 +42,10 @@ In the final experiment, I incorporated the findings from the previous ablation 
 
 
 
-### GitHub repo:
+#### GitHub repo:
 [ImageSegmentation](https://github.com/87tana/Image-Semantic-Segmentation)
 
-### Articles out of this project:
+#### Articles out of this project:
 
 [Exploring CNN Components for Tumor segmentation in MRI Images:An oblation study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083)
 
@@ -85,10 +85,10 @@ The best value for each metric is highlighted in green. wACC indicate the class-
     <p style= "text-align: center;">Table 2: Model evaluation on the test set,Created by autor.</p> 
 </div>
 
-### GitHub repo:
+#### GitHub repo:
 [ImageSegmentation](https://github.com/87tana/Image-Classification-Neural-Network-Architecture-Comparison-)
 
-### Articles out of this project:
+#### Articles out of this project:
 [Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
 
 [Brain Tumor Classification: Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural Networks on MRI Images](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
@@ -130,7 +130,7 @@ tagging**, followed by bag-of-words vectorization.
 alone are insufficient for vocabulary generation.
 - Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
 
-### Article out of this project:
+#### Article out of this project:
 
 [Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis: A Case Study on Amazon Fine Food Reviews](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)  
 
