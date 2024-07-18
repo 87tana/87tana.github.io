@@ -93,7 +93,25 @@ The best value for each metric is highlighted in green. wACC indicate the class-
 
 [Brain Tumor Classification: Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural Networks on MRI Images](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
 
+##
 
+### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
+<p align="center">
+    <img width="700" src="/images/prom_dic_words.png" alt="Material Bread logo">
+</p>
+
+- Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
+- Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
+tagging**, followed by bag-of-words vectorization.
+- Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
+alone are insufficient for vocabulary generation.
+- Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
+
+#### Article out of this project:
+
+[Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis: A Case Study on Amazon Fine Food Reviews](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)  
+
+##
 
 ## [fMRI Image Analysis and EEG Signal Processing](https://github.com/87tana/BCI_Neurofeedback)
 <p align="center">
@@ -115,24 +133,6 @@ The results indicated that simulated EEG aids in selecting more plausible CSP fi
 
 <br>[View Results Presentation ](https://github.com/87tana/BCI_Neurofeedback/blob/main/project_presentation.pdf)
 <br>[View Publication on Medium](https://medium.com/@t.mostafid/data-driven-spatial-filter-selection-for-adaptive-brain-computer-interfaces-2519fbda0831)
-
-##
-
-### [NLP Sentiment Analysis](https://github.com/87tana/NLP_SentimentAnalysis)
-<p align="center">
-    <img width="700" src="/images/prom_dic_words.png" alt="Material Bread logo">
-</p>
-
-- Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
-- Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
-tagging**, followed by bag-of-words vectorization.
-- Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
-alone are insufficient for vocabulary generation.
-- Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
-
-#### Article out of this project:
-
-[Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis: A Case Study on Amazon Fine Food Reviews](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)  
 
 
 
