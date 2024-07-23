@@ -100,12 +100,16 @@ The best value for each metric is highlighted in green. wACC indicate the class-
     <img width="700" src="/images/prom_dic_words.png" alt="Material Bread logo">
 </p>
 
+### Summary
+
 - Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
 - Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
 tagging**, followed by bag-of-words vectorization.
 - Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
 alone are insufficient for vocabulary generation.
 - Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
+
+### Methods
 
 #### Article out of this project:
 
