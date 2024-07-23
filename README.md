@@ -106,6 +106,8 @@ In this project, I investigate Natural Language Processing (NLP) techniques for 
 
 ### Methods
 
+I conducted experiments using four text preprocessing combinations: basic preprocessing, stemming, POS tagging, and bag-of-words vectorization. Evaluations of word vocabularies were performed using frequency distributions and word entropies. The experiments highlighted the limitations of relying solely on word frequencies for vocabulary generation. To improve sentiment analysis, I identified the need to explore TF-IDF and address data imbalances. All experiments were carried out using Python with libraries including NLTK, Spacy, and Hugging Face.
+
 #### Article out of this project:
 
 [Exploring Text Preprocessing and BoW Vectorization for NLP Sentiment Analysis: A Case Study on Amazon Fine Food Reviews](https://medium.com/@t.mostafid/exploring-text-preprocessing-and-bow-vectorization-for-nlp-sentiment-analysis-a-case-study-on-16d152000776)  
