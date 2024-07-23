@@ -102,12 +102,7 @@ The best value for each metric is highlighted in green. wACC indicate the class-
 
 ### Summary
 
-- Investigated Natural Language Processing (NLP) techniques for sentiment analysis utilizing Python and libraries including **NLTK**, **Spacy**, and **Hugging Face**.
-- Implemented four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS)
-tagging**, followed by bag-of-words vectorization.
-- Evaluated word vocabularies using frequency distributions and word entropies, illustrating that relying solely on word frequencies is inadequate for generating vocabularies.
-alone are insufficient for vocabulary generation.
-- Recognized Acknowledged the need for exploring TF-IDF and addressing data imbalances to improve sentiment representation and modeling.
+In this project, I investigate Natural Language Processing (NLP) techniques for sentiment analysis using Python and libraries such as **NLTK**, **Spacy**, and **Hugging Face**. I implement four text preprocessing combinations, including **basic preprocessing**, **stemming**, and **part of speech (POS) tagging**, followed by bag-of-words vectorization. Word vocabularies are evaluated using frequency distributions and word entropies, demonstrating that relying solely on word frequencies is insufficient for vocabulary generation. Additionally, I recognize the importance of exploring TF-IDF and addressing data imbalances to enhance sentiment representation and modeling.
 
 ### Methods
 
