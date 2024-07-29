@@ -1,17 +1,15 @@
-## Profile Overview
+## About:
 
-- **Bio:** Data scientist specializing in computer vision with a background in neuroimaging and biosignal processing.
-- **Programming:** Python,MATLAB
-- **Data Science Packages:** Scikit-Learn, SciPy, NumPy, Pandas, and Plotly
-- **Deep laerning Frameworks:** Keras,TensorFlow,PyTorch
+Hey there! I am Research Scientist with a Master of Science in Computational Cognitive Neuroscience from the University of Oldenburg , with a focus on machine learning techniques for signal processingn medical image analysis and neuroimaging.  
 
+Currently, I am freelancing on deep learning projects, mainly focusing on medical imaging in computer vision tasks such as semantic segmentation, object classification, localization and detection.ً
 
 ## Selected Projects:
 
 ### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
-    <img width="700" src="/images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
+    <img width="600" src="/images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
     <p style= "text-align: center;">Figure 1: Studied Segmentation Network,Created by autor.</p> 
 </div>
 
@@ -34,10 +32,18 @@ I used standard metrics such as IoU, Dice, precision, and recall to evaluate the
 In the final experiment, I incorporated the findings from the previous ablation studies. I used the baseline model with dilated convolutions as explained earlier, applied the BCE loss function, and randomly applied augmentation to 50% of the samples. Table 1 shows the segmentation results on the validation and test sets. Compared to Table 4, the test results show a significant improvement over the previous experiments.
 
 
+<div align="center">
+    <img width="800" src="/images/Screenshot from 2024-07-29 10-30-53.png" alt="Material Bread logo">
+    <p style= "text-align: center;"> Figure 2 : Training and validation curves for different decoder structures. Created by author Created by author</p> 
+</div> 
+
+
+
+
 
 <div align="center">
     <img width="800" src="/images/Screenshot from 2024-07-17 19-00-09.png" alt="Material Bread logo">
-    <p style= "text-align: center;">Table 1: Segmentation results for the final model and experiment setup on the validation and test sets. All training samples were used for this experiment. Created by author</p> 
+    <p style= "text-align: center;">Table 1: Segmentation results for the final model and experiment setup on the validation and test sets. All training samples were used for this experiment. Created by author..</p> 
 </div>
 
 
