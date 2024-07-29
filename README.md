@@ -8,8 +8,6 @@
 
 ## Selected Projects:
 
-
-
 ### [Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
@@ -20,12 +18,14 @@
 ### Summary: 
 
 In this project, I explore the impacts of different components of an encoder-decoder convolutional neural network (CNN) for tumor segmentation in the 2D MRI Brain Tumor Image Dataset.
-I propose the CNN model shown in Figure 1 and compare the performance of **ResNet-18** and **VGG-16 backbones**. The influence of data augmentation techniques is examined, followed by an exploration of various modifications in the decoder architecture, including different upsampling levels, skip connections, and dilated convolutions. I also compare the effectiveness of **Binary Cross Entropy (BCE)** and **Dice loss functions** in training the model.
+
+I propose the CNN model shown in Figure 1 and compare the performance of **ResNet-18** and **VGG-16 backbones**. The influence of elastic data augmentation techniques is examined, followed by an exploration of various modifications in the decoder architecture, including different upsampling levels, skip connections, and dilated(atrous)convolutions. I also compare the effectiveness of **Binary Cross Entropy (BCE)** and **Dice loss functions** in training the model.
 
 Experimental results indicate that, for this dataset, ResNet-18 is a better choice for the backbone, and BCE results in slightly better training performance. Additionally, using dilated convolutions in the decoder improves segmentation results. Moreover, augmentation helps increase the model’s generalizability.
 
 ### Methods:
-I conducted oblation studies, to assess the effects of network structure on segmentation results,on different parts of my base network (see Figure 1). All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
+I conducted oblation studies, to assess the effects of network structure on segmentation results,on different parts of my base network (see Figure 1). 
+All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
 
 I used standard metrics such as IoU, Dice, precision, and recall to evaluate the performance of each model. I use a threshold of 0.5 to generate the prediction masks from the probability maps.
 
