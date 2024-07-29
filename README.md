@@ -25,7 +25,7 @@ Experimental results indicate that, for this dataset, ResNet-18 is a better choi
 I conducted oblation studies, to assess the effects of network structure on segmentation results,on different parts of my base network (see Figure 1). 
 All experiments were performed on Google Colab with GPU acceleration, and the learning rate was adjusted based on the learning curve of each experiment.
 
-I used standard metrics such as IoU, Dice, precision, and recall to evaluate the performance of each model. I use a threshold of 0.5 to generate the prediction masks from the probability maps.
+Deep Learning(PyTorch),Convolutional Neural Network (CNN), Computer Vision (OpenCV & pretrained CNNs), Image Semantic Segmentation(ResNet-18, VGG-16), Data Augmentation(Elastic, Affine),Loss Functions(BCE,DiceLoss)
 
 ### Final Experiment:
 
