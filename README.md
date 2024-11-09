@@ -31,7 +31,7 @@ In the final experiment, I incorporated the findings from the previous ablation 
     <p style= "text-align: center;"> Figure 2 : Training and validation curves for different decoder structures. Created by author Created by author</p> 
 </div> 
 
-
+In ResNet the goal is to preserve the input(idebntiy) through the skip connections , and add the input to the output of series of layers . so NN learn the residuals instead of entire mapping
 
 
 
