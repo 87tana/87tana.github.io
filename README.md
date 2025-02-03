@@ -1,5 +1,9 @@
 ## Selected Projects:
 
+
+### [YOLO11n-Bone-Fracture-Detection-Model](https://github.com/87tana/YOLO11n-Bone-Fracture-Detection-Model)
+
+
 ### [Exploring CNN Components for Tumor Segmentation in MRI Images:An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
 
 <div align="center">
