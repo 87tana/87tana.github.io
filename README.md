@@ -14,7 +14,7 @@
 
 <div align="center">
     <img width="600" src="/images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
-    <p style= "text-align: center;">Figure 1: Studied Segmentation Network,Created by autor.</p> 
+    <p style= "text-align: center;">Figure 2: Studied Segmentation Network,Created by autor.</p> 
 </div>
 
 ### Summary: 
