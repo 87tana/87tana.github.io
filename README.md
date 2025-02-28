@@ -1,7 +1,7 @@
 ## Selected Projects:
 
 
-### [YOLO11n-Bone-Fracture-Detection-Model](https://github.com/87tana/YOLO11n-Bone-Fracture-Detection-Model)
+### [YOLO11n-Deep Learning for X-ray Bone Fracture Detection](https://github.com/87tana/YOLO11n-Bone-Fracture-Detection-Model)
 
 <div align="center">
     <img width="600" src="/images/Screenshot from 2025-02-13 11-31-55.png" alt="Material Bread logo">
