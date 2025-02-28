@@ -4,9 +4,10 @@
 ### [YOLO11n-Bone-Fracture-Detection-Model](https://github.com/87tana/YOLO11n-Bone-Fracture-Detection-Model)
 
 <div align="center">
-    <img width="600" src="/images/ResNet-18 Segmentation Network.png" alt="Material Bread logo">
+    <img width="600" src="/images/Screenshot from 2025-02-13 11-31-55.png" alt="Material Bread logo">
     <p style= "text-align: center;">Figure 1: Studied Segmentation Network,Created by autor.</p> 
 </div>
+
 
 
 ### [Exploring CNN Components for Tumor Segmentation in MRI Images:An Ablation Study](https://github.com/87tana/Image-Semantic-Segmentation)  
