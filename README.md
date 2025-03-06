@@ -8,6 +8,8 @@
     <p style= "text-align: center;">Figure 1: Studied Segmentation Network,Created by autor.</p> 
 </div>
 
+### Summary:
+
 This is ongoing project aims to develop and validate deep learning models for detecting bone fractures in medical X-ray images using object detection methods. It involves training convolutional neural networks to accurately detect and classify fractures, ensuring high diagnostic accuracy. In addition, a web application was created using FastAPI and Streamlit, and containerised using Docker for efficient and reliable deployment. 
 
 
