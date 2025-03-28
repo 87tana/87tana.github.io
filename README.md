@@ -152,12 +152,8 @@ The results indicated that simulated EEG aids in selecting more plausible CSP fi
 
 ## 
 
-### Publication:
+### Publication on Medium:
 
-- Exploring CNN Components for Tumor Segmentation in MRI Images: An Ablation Study, Medium – 07/2024
-- Brain Tumor Classification: Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural
-Networks on MRI Images, Medium – 12/2023
-- Optimized Spatial Filter Selection in Brain-Computer Interfaces: A Data-Driven Approach, Medium – 11/2023
 
 
 
