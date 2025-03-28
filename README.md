@@ -155,6 +155,18 @@ The results indicated that simulated EEG aids in selecting more plausible CSP fi
 ### Publication on Medium:
 
 
+<h2 align="left">See on Medium</h2>
+
+* [Deep Learning for X-ray Bone Fracture Detection: Key Concepts and Recent Approaches](https://medium.com/@t.mostafid/deep-learning-for-x-ray-bone-fracture-detection-key-concepts-and-recent-approaches-8b6bb509fd8c)
+
+* [Exploring CNN Components for Tumor segmentation in MRI Images:An oblation study](https://medium.com/@t.mostafid/exploring-cnn-components-for-tumor-segmentation-in-mri-images-an-ablation-study-d79cdfd25083)
+
+* [Tumor Semantic Segmentation with U-Net and Deeplabv3+](https://medium.com/@t.mostafid/tumor-segmentation-with-u-net-and-deeplabv3-a-review-048e10001fb2)
+
+* [Overview of VGG16, ResNet50, Xception and MobileNet Neural Networks](https://medium.com/@t.mostafid/brain-tumor-classification-analysis-of-vgg16-resnet50-xception-and-mobilenets-convolutional-a7445638a233)
+
+* [Brain Tumor Classification: Analysis of VGG16, ResNet50, Xception, and MobileNets Convolutional Neural Networks on MRI Images](https://medium.com/@t.mostafid/overview-of-vgg16-xception-mobilenet-and-resnet50-neural-networks-c678e0c0ee85)
+
 
 
 
